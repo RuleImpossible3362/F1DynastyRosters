@@ -863,25 +863,6 @@
     "1996": {
       "redbull": [
         {
-          "name": "Jos Verstappen",
-          "nationality": "Dutch",
-          "trait": "aggressive",
-          "age": 24,
-          "rating": 76,
-          "potential": 86,
-          "qualifying": 78,
-          "racePace": 75,
-          "consistency": 65,
-          "wet": 85,
-          "aggression": 92,
-          "marketability": 65,
-          "morale": 70,
-          "salary": 1,
-          "contract": 1,
-          "feederContract": 0,
-          "series": "F2"
-        },
-        {
           "name": "Ricardo Rosset",
           "nationality": "Brazilian",
           "trait": "consistent",
@@ -898,7 +879,28 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 16
+        },
+        {
+          "name": "Jos Verstappen",
+          "nationality": "Dutch",
+          "trait": "aggressive",
+          "age": 24,
+          "rating": 76,
+          "potential": 80,
+          "qualifying": 78,
+          "racePace": 75,
+          "consistency": 65,
+          "wet": 85,
+          "aggression": 92,
+          "marketability": 65,
+          "morale": 70,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 17
         }
       ],
       "ferrari": [
@@ -919,7 +921,8 @@
           "salary": 25,
           "contract": 4,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 1
         },
         {
           "name": "Eddie Irvine",
@@ -938,7 +941,8 @@
           "salary": 1,
           "contract": 4,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 2
         }
       ],
       "mercedes": [
@@ -959,7 +963,8 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 18
         },
         {
           "name": "Mika Salo",
@@ -967,7 +972,7 @@
           "trait": "technical",
           "age": 30,
           "rating": 78,
-          "potential": 84,
+          "potential": 82,
           "qualifying": 77,
           "racePace": 80,
           "consistency": 82,
@@ -978,7 +983,8 @@
           "salary": 5,
           "contract": 3,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 19
         }
       ],
       "mclaren": [
@@ -999,7 +1005,8 @@
           "salary": 4,
           "contract": 4,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 7
         },
         {
           "name": "David Coulthard",
@@ -1018,7 +1025,8 @@
           "salary": 2,
           "contract": 4,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 8
         }
       ],
       "aston": [
@@ -1039,7 +1047,8 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 11
         },
         {
           "name": "Martin Brundle",
@@ -1047,7 +1056,7 @@
           "trait": "consistent",
           "age": 37,
           "rating": 81,
-          "potential": 83,
+          "potential": 81,
           "qualifying": 78,
           "racePace": 82,
           "consistency": 88,
@@ -1058,36 +1067,18 @@
           "salary": 2,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 12
         }
       ],
       "alpine": [
-        {
-          "name": "Gerhard Berger",
-          "nationality": "Austrian",
-          "trait": "qualifier",
-          "age": 37,
-          "rating": 86,
-          "potential": 88,
-          "qualifying": 89,
-          "racePace": 84,
-          "consistency": 80,
-          "wet": 78,
-          "aggression": 75,
-          "marketability": 82,
-          "morale": 70,
-          "salary": 7,
-          "contract": 2,
-          "feederContract": 0,
-          "series": "F2"
-        },
         {
           "name": "Jean Alesi",
           "nationality": "French",
           "trait": "aggressive",
           "age": 32,
           "rating": 86,
-          "potential": 88,
+          "potential": 86,
           "qualifying": 85,
           "racePace": 87,
           "consistency": 72,
@@ -1098,7 +1089,28 @@
           "salary": 6,
           "contract": 2,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 3
+        },
+        {
+          "name": "Gerhard Berger",
+          "nationality": "Austrian",
+          "trait": "qualifier",
+          "age": 37,
+          "rating": 86,
+          "potential": 86,
+          "qualifying": 89,
+          "racePace": 84,
+          "consistency": 80,
+          "wet": 78,
+          "aggression": 75,
+          "marketability": 82,
+          "morale": 70,
+          "salary": 7,
+          "contract": 2,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 4
         }
       ],
       "williams": [
@@ -1119,7 +1131,8 @@
           "salary": 6,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 5
         },
         {
           "name": "Jacques Villeneuve",
@@ -1138,7 +1151,8 @@
           "salary": 3,
           "contract": 3,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 6
         }
       ],
       "racingbulls": [
@@ -1148,7 +1162,7 @@
           "trait": "consistent",
           "age": 24,
           "rating": 70,
-          "potential": 78,
+          "potential": 74,
           "qualifying": 68,
           "racePace": 70,
           "consistency": 78,
@@ -1159,7 +1173,8 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 20
         },
         {
           "name": "Giancarlo Fisichella",
@@ -1167,7 +1182,7 @@
           "trait": "qualifier",
           "age": 23,
           "rating": 74,
-          "potential": 91,
+          "potential": 88,
           "qualifying": 80,
           "racePace": 74,
           "consistency": 72,
@@ -1178,7 +1193,8 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 21
         }
       ],
       "haas": [
@@ -1199,7 +1215,8 @@
           "salary": 1,
           "contract": 4,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 9
         },
         {
           "name": "Pedro Diniz",
@@ -1218,10 +1235,31 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 10
         }
       ],
       "audi": [
+        {
+          "name": "Johnny Herbert",
+          "nationality": "British",
+          "trait": "technical",
+          "age": 31,
+          "rating": 80,
+          "potential": 82,
+          "qualifying": 78,
+          "racePace": 81,
+          "consistency": 82,
+          "wet": 74,
+          "aggression": 70,
+          "marketability": 72,
+          "morale": 74,
+          "salary": 1,
+          "contract": 3,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 14
+        },
         {
           "name": "Heinz-Harald Frentzen",
           "nationality": "German",
@@ -1239,26 +1277,8 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
-        },
-        {
-          "name": "Johnny Herbert",
-          "nationality": "British",
-          "trait": "technical",
-          "age": 31,
-          "rating": 80,
-          "potential": 84,
-          "qualifying": 78,
-          "racePace": 81,
-          "consistency": 82,
-          "wet": 74,
-          "aggression": 70,
-          "marketability": 72,
-          "morale": 74,
-          "salary": 1,
-          "contract": 3,
-          "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 15
         }
       ],
       "cadillac": [
@@ -1268,7 +1288,7 @@
           "trait": "technical",
           "age": 25,
           "rating": 68,
-          "potential": 78,
+          "potential": 75,
           "qualifying": 70,
           "racePace": 68,
           "consistency": 74,
@@ -1279,7 +1299,8 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 22
         },
         {
           "name": "Andrea Montermini",
@@ -1298,7 +1319,8 @@
           "salary": 1,
           "contract": 1,
           "feederContract": 0,
-          "series": "F2"
+          "series": "F2",
+          "number": 23
         }
       ]
     },
