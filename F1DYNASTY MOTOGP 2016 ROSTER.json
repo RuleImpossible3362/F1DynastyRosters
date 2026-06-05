@@ -860,6 +860,469 @@
     }
   ],
   "seasonDrivers": {
+    "2016": {
+      "redbull": [
+        {
+          "name": "Andrea Dovizioso",
+          "nationality": "Italian",
+          "trait": "technical",
+          "age": 30,
+          "rating": 90,
+          "potential": 94,
+          "qualifying": 88,
+          "racePace": 90,
+          "consistency": 94,
+          "wet": 92,
+          "aggression": 78,
+          "marketability": 80,
+          "morale": 88,
+          "salary": 3,
+          "contract": 5,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 4
+        },
+        {
+          "name": "Andrea Iannone",
+          "nationality": "Italian",
+          "trait": "aggressive",
+          "age": 27,
+          "rating": 88,
+          "potential": 92,
+          "qualifying": 94,
+          "racePace": 89,
+          "consistency": 72,
+          "wet": 80,
+          "aggression": 96,
+          "marketability": 82,
+          "morale": 85,
+          "salary": 2,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 29
+        }
+      ],
+      "ferrari": [
+        {
+          "name": "Pol Espargaró",
+          "nationality": "Spanish",
+          "trait": "aggressive",
+          "age": 25,
+          "rating": 84,
+          "potential": 90,
+          "qualifying": 86,
+          "racePace": 84,
+          "consistency": 80,
+          "wet": 82,
+          "aggression": 90,
+          "marketability": 78,
+          "morale": 80,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 44
+        },
+        {
+          "name": "Bradley Smith",
+          "nationality": "British",
+          "trait": "consistent",
+          "age": 26,
+          "rating": 81,
+          "potential": 85,
+          "qualifying": 82,
+          "racePace": 80,
+          "consistency": 88,
+          "wet": 85,
+          "aggression": 75,
+          "marketability": 75,
+          "morale": 78,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 38
+        }
+      ],
+      "mercedes": [
+        {
+          "name": "Marc Márquez",
+          "nationality": "Spanish",
+          "trait": "aggressive",
+          "age": 23,
+          "rating": 98,
+          "potential": 99,
+          "qualifying": 99,
+          "racePace": 98,
+          "consistency": 92,
+          "wet": 96,
+          "aggression": 98,
+          "marketability": 95,
+          "morale": 95,
+          "salary": 10,
+          "contract": 5,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 93
+        },
+        {
+          "name": "Dani Pedrosa",
+          "nationality": "Spanish",
+          "trait": "technical",
+          "age": 31,
+          "rating": 91,
+          "potential": 96,
+          "qualifying": 90,
+          "racePace": 92,
+          "consistency": 88,
+          "wet": 75,
+          "aggression": 70,
+          "marketability": 85,
+          "morale": 80,
+          "salary": 3,
+          "contract": 3,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 26
+        }
+      ],
+      "mclaren": [
+        {
+          "name": "Valentino Rossi",
+          "nationality": "Italian",
+          "trait": "overtaker",
+          "age": 37,
+          "rating": 97,
+          "potential": 99,
+          "qualifying": 88,
+          "racePace": 98,
+          "consistency": 95,
+          "wet": 94,
+          "aggression": 88,
+          "marketability": 99,
+          "morale": 90,
+          "salary": 12,
+          "contract": 5,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 46
+        },
+        {
+          "name": "Jorge Lorenzo",
+          "nationality": "Spanish",
+          "trait": "consistent",
+          "age": 29,
+          "rating": 96,
+          "potential": 98,
+          "qualifying": 97,
+          "racePace": 98,
+          "consistency": 97,
+          "wet": 65,
+          "aggression": 75,
+          "marketability": 90,
+          "morale": 85,
+          "salary": 8,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 99
+        }
+      ],
+      "aston": [
+        {
+          "name": "Cal Crutchlow",
+          "nationality": "British",
+          "trait": "overtaker",
+          "age": 31,
+          "rating": 87,
+          "potential": 88,
+          "qualifying": 88,
+          "racePace": 86,
+          "consistency": 76,
+          "wet": 95,
+          "aggression": 92,
+          "marketability": 85,
+          "morale": 90,
+          "salary": 1,
+          "contract": 5,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 35
+        },
+        {
+          "name": "Hibiki Hideaki",
+          "nationality": "Japanese",
+          "trait": "consistent",
+          "age": 27,
+          "rating": 40,
+          "potential": 40,
+          "qualifying": 40,
+          "racePace": 40,
+          "consistency": 40,
+          "wet": 40,
+          "aggression": 40,
+          "marketability": 40,
+          "morale": 40,
+          "salary": 1,
+          "contract": 2,
+          "feederContract": 0,
+          "series": "F2"
+        }
+      ],
+      "alpine": [
+        {
+          "name": "Álvaro Bautista",
+          "nationality": "Spanish",
+          "trait": "consistent",
+          "age": 32,
+          "rating": 82,
+          "potential": 88,
+          "qualifying": 78,
+          "racePace": 84,
+          "consistency": 86,
+          "wet": 80,
+          "aggression": 72,
+          "marketability": 70,
+          "morale": 82,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 19
+        },
+        {
+          "name": "Stefan Bradl",
+          "nationality": "German",
+          "trait": "technical",
+          "age": 27,
+          "rating": 81,
+          "potential": 86,
+          "qualifying": 84,
+          "racePace": 80,
+          "consistency": 82,
+          "wet": 78,
+          "aggression": 70,
+          "marketability": 72,
+          "morale": 75,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 6
+        }
+      ],
+      "williams": [
+        {
+          "name": "Maverick Viñales",
+          "nationality": "Spanish",
+          "trait": "qualifier",
+          "age": 21,
+          "rating": 92,
+          "potential": 97,
+          "qualifying": 95,
+          "racePace": 92,
+          "consistency": 88,
+          "wet": 82,
+          "aggression": 85,
+          "marketability": 88,
+          "morale": 95,
+          "salary": 2,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 25
+        },
+        {
+          "name": "Aleix Espargaró",
+          "nationality": "Spanish",
+          "trait": "qualifier",
+          "age": 27,
+          "rating": 84,
+          "potential": 87,
+          "qualifying": 92,
+          "racePace": 82,
+          "consistency": 78,
+          "wet": 75,
+          "aggression": 88,
+          "marketability": 75,
+          "morale": 78,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 41
+        }
+      ],
+      "racingbulls": [
+        {
+          "name": "Danilo Petrucci",
+          "nationality": "Italian",
+          "trait": "rainy",
+          "age": 26,
+          "rating": 83,
+          "potential": 89,
+          "qualifying": 82,
+          "racePace": 82,
+          "consistency": 84,
+          "wet": 97,
+          "aggression": 86,
+          "marketability": 72,
+          "morale": 84,
+          "salary": 1,
+          "contract": 3,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 9
+        },
+        {
+          "name": "Scott Redding",
+          "nationality": "British",
+          "trait": "aggressive",
+          "age": 23,
+          "rating": 80,
+          "potential": 86,
+          "qualifying": 80,
+          "racePace": 78,
+          "consistency": 75,
+          "wet": 92,
+          "aggression": 92,
+          "marketability": 70,
+          "morale": 78,
+          "salary": 1,
+          "contract": 2,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 45
+        }
+      ],
+      "haas": [
+        {
+          "name": "Jack Miller",
+          "nationality": "Australian",
+          "trait": "rainy",
+          "age": 21,
+          "rating": 82,
+          "potential": 91,
+          "qualifying": 78,
+          "racePace": 80,
+          "consistency": 70,
+          "wet": 99,
+          "aggression": 94,
+          "marketability": 85,
+          "morale": 92,
+          "salary": 1,
+          "contract": 2,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 43
+        },
+        {
+          "name": "Tito Rabat",
+          "nationality": "Spanish",
+          "trait": "technical",
+          "age": 27,
+          "rating": 76,
+          "potential": 85,
+          "qualifying": 72,
+          "racePace": 76,
+          "consistency": 82,
+          "wet": 68,
+          "aggression": 65,
+          "marketability": 65,
+          "morale": 70,
+          "salary": 1,
+          "contract": 2,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 53
+        }
+      ],
+      "audi": [
+        {
+          "name": "Héctor Barberá",
+          "nationality": "Spanish",
+          "trait": "overtaker",
+          "age": 30,
+          "rating": 83,
+          "potential": 85,
+          "qualifying": 88,
+          "racePace": 82,
+          "consistency": 86,
+          "wet": 84,
+          "aggression": 84,
+          "marketability": 60,
+          "morale": 88,
+          "salary": 1,
+          "contract": 2,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 8
+        },
+        {
+          "name": "Loris Baz",
+          "nationality": "French",
+          "trait": "rainy",
+          "age": 23,
+          "rating": 78,
+          "potential": 82,
+          "qualifying": 76,
+          "racePace": 78,
+          "consistency": 78,
+          "wet": 90,
+          "aggression": 75,
+          "marketability": 62,
+          "morale": 78,
+          "salary": 1,
+          "contract": 2,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 76
+        }
+      ],
+      "cadillac": [
+        {
+          "name": "Eugene Laverty",
+          "nationality": "Irish",
+          "trait": "consistent",
+          "age": 30,
+          "rating": 79,
+          "potential": 82,
+          "qualifying": 75,
+          "racePace": 80,
+          "consistency": 90,
+          "wet": 85,
+          "aggression": 70,
+          "marketability": 68,
+          "morale": 85,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 50
+        },
+        {
+          "name": "Yonny Hernández",
+          "nationality": "Colombian",
+          "trait": "qualifier",
+          "age": 28,
+          "rating": 77,
+          "potential": 80,
+          "qualifying": 85,
+          "racePace": 75,
+          "consistency": 70,
+          "wet": 82,
+          "aggression": 86,
+          "marketability": 65,
+          "morale": 72,
+          "salary": 1,
+          "contract": 1,
+          "feederContract": 0,
+          "series": "F2",
+          "number": 68
+        }
+      ]
+    },
     "2020": {
       "redbull": [
         {
@@ -5564,276 +6027,276 @@
   ],
   "staffPool": {
     "named": {
-"td": [
-    {
-      "name": "Kouichi Tsuji",
-      "rating": 96,
-      "salary": 1,
-      "desc": "The engineering mastermind behind Yamaha's legendary smooth-handling M1 chassis philosophy."
-    },
-    {
-      "name": "Shinichi Kokubu",
-      "rating": 95,
-      "salary": 1,
-      "desc": "A brilliant developmental mind tasked with taming Honda's aggressive RC213V engine character."
-    },
-    {
-      "name": "Gigi Dall'Igna",
-      "rating": 99,
-      "salary": 1,
-      "desc": "The aerodynamic pioneer who fundamentally changed MotoGP with winglets and raw desmodromic power."
-    },
-    {
-      "name": "Ken Kawauchi",
-      "rating": 90,
-      "salary": 1,
-      "desc": "Successfully resurrected Suzuki's MotoGP project with an incredibly balanced inline-four chassis design."
-    },
-    {
-      "name": "Romano Albesiano",
-      "rating": 84,
-      "salary": 1,
-      "desc": "Working tirelessly to develop the newborn V4 RS-GP prototype into a competitive premier class package."
-    },
-    {
-      "name": "Guy Coulon",
-      "rating": 88,
-      "salary": 1,
-      "desc": "A paddock legend with decades of experience squeezing maximum performance out of satellite machinery."
-    },
-    {
-      "name": "Fabiano Sterlacchini",
-      "rating": 86,
-      "salary": 1,
-      "desc": "Maintained a direct technical pipeline to the factory to optimize Pramac's leased Desmosedici specifications."
-    },
-    {
-      "name": "Beefy Bourguignon",
-      "rating": 85,
-      "salary": 1,
-      "desc": "A highly adaptable technical lead capable of engineering podium-ready setups on a strict satellite budget."
-    },
-    {
-      "name": "Pete Benson",
-      "rating": 82,
-      "salary": 1,
-      "desc": "Former championship-winning engineer helping a young team navigate the brutal learning curve of MotoGP prototypes."
-    },
-    {
-      "name": "Javi Ullate",
-      "rating": 74,
-      "salary": 1,
-      "desc": "A resourceful director maximizing trackside performance out of older-generation, leased Ducati hardware."
-    },
-    {
-      "name": "Gino Borsoi",
-      "rating": 80,
-      "salary": 1,
-      "desc": "A sharp technical coordinator skilled at managing tight satellite budgets and executing engineering compromises."
-    }
-  ],
-  "rs": [
-    {
-      "name": "Davide Marelli",
-      "rating": 94,
-      "salary": 1,
-      "desc": "An expert in managing electronic traction strategies to maximize the new Michelin rear tyre life."
-    },
-    {
-      "name": "Gerold Vogel",
-      "rating": 93,
-      "salary": 1,
-      "desc": "Specializes in complex engine braking strategies to help riders cope with aggressive Honda downshifts."
-    },
-    {
-      "name": "Gabriele Conti",
-      "rating": 97,
-      "salary": 1,
-      "desc": "The software wizard responsible for unleashing Ducati's massive power without destroying the rear tire."
-    },
-    {
-      "name": "Claudio Rainato",
-      "rating": 88,
-      "salary": 1,
-      "desc": "Fine-tunes fuel mapping and electronic throttle delivery to preserve Suzuki's high mid-corner speeds."
-    },
-    {
-      "name": "Marco De Luca",
-      "rating": 82,
-      "salary": 1,
-      "desc": "Focuses heavily on basic electronic mapping to stabilize Aprilia's evolving spec-software suite."
-    },
-    {
-      "name": "Jean-Guillaume Goupil",
-      "rating": 85,
-      "salary": 1,
-      "desc": "Excels at reading real-time track telemetry to rapidly adjust power delivery for changing weather conditions."
-    },
-    {
-      "name": "Cristian Battaglia",
-      "rating": 86,
-      "salary": 1,
-      "desc": "Utilizes factory Ducati data streams to optimize race-distance fuel and tire conservation strategies."
-    },
-    {
-      "name": "David Garcia",
-      "rating": 84,
-      "salary": 1,
-      "desc": "A methodical data analyst who excels at adapting electronic settings to match shifting afternoon track temperatures."
-    },
-    {
-      "name": "Gilles Bigot",
-      "rating": 83,
-      "salary": 1,
-      "desc": "A veteran strategist who uses his massive GP experience to guide real-time fuel and mapping adaptations."
-    },
-    {
-      "name": "Bocha Alisia",
-      "rating": 72,
-      "salary": 1,
-      "desc": "Works minor miracles with limited sensor data to provide stable engine maps for his riders."
-    },
-    {
-      "name": "Diego Gubellini",
-      "rating": 81,
-      "salary": 1,
-      "desc": "A highly analytical strategist who focuses on maximizing corner-exit traction via custom software tweaks."
-    }
-  ],
-  "cm": [
-    {
-      "name": "Silvano Galbusera",
-      "rating": 95,
-      "salary": 1,
-      "desc": "Valentino Rossi's calm and deeply calculated crew chief who excels at finding race-day balance."
-    },
-    {
-      "name": "Santi Hernandez",
-      "rating": 98,
-      "salary": 1,
-      "desc": "Marc Márquez's trusted confidant, famous for making bold, aggressive setup choices that win titles."
-    },
-    {
-      "name": "Alberto Giribuola",
-      "rating": 92,
-      "salary": 1,
-      "desc": "A methodical engineer who helps translate raw rider feedback into precise mechanical traction."
-    },
-    {
-      "name": "Tom O'Kane",
-      "rating": 91,
-      "salary": 1,
-      "desc": "Highly experienced premier-class mastermind renowned for his chassis setup expertise and serene demeanor."
-    },
-    {
-      "name": "Marcus Eschenbacher",
-      "rating": 84,
-      "salary": 1,
-      "desc": "A versatile crew chief driving Aprilia's mechanical development under immense factory pressure."
-    },
-    {
-      "name": "Nicolas Goyon",
-      "rating": 87,
-      "salary": 1,
-      "desc": "A meticulous technician who specializes in giving satellite riders absolute front-end confidence on entry."
-    },
-    {
-      "name": "Daniele Romagnoli",
-      "rating": 88,
-      "salary": 1,
-      "desc": "A seasoned premier class crew chief who excels at making rapid setup pivots during shortened practice sessions."
-    },
-    {
-      "name": "Christophe Bourguignon",
-      "rating": 89,
-      "salary": 1,
-      "desc": "Cal Crutchlow's fiery crew chief who knows exactly how to build a bike for ultra-hard-braking riders."
-    },
-    {
-      "name": "Ramon Aurin",
-      "rating": 85,
-      "salary": 1,
-      "desc": "A veteran mechanic with deep HRC knowledge helping satellite Honda riders safely find their limits."
-    },
-    {
-      "name": "Christian Lundberg",
-      "rating": 76,
-      "salary": 1,
-      "desc": "A hardworking chief mechanic masterful at squeezing pace out of older, hand-me-down chassis components."
-    },
-    {
-      "name": "Juan Martinez",
-      "rating": 82,
-      "salary": 1,
-      "desc": "A well-respected paddock veteran known for his excellent psychological rider management and setup clarity."
-    }
-  ],
-  "pcc": [
-    {
-      "name": "Bernard Ansiau",
-      "rating": 94,
-      "salary": 1,
-      "desc": "A legendary spanner-man who demands absolute mechanical perfection under intense session time constraints."
-    },
-    {
-      "name": "Javier Ortiz",
-      "rating": 95,
-      "salary": 1,
-      "desc": "Honda's celebrated head mechanic who coordinates lightning-fast bike changes during unpredictable flag-to-flag races."
-    },
-    {
-      "name": "Marco Palmerini",
-      "rating": 92,
-      "salary": 1,
-      "desc": "Runs a tight, militaristic garage that consistently clocks the fastest engine and gearbox swaps in the paddock."
-    },
-    {
-      "name": "Jacques Roca",
-      "rating": 88,
-      "salary": 1,
-      "desc": "Keeps the Suzuki garage flawlessly organized to guarantee mistake-free, rapid structural parts replacement."
-    },
-    {
-      "name": "Pietro Caprara",
-      "rating": 80,
-      "salary": 1,
-      "desc": "Maintains high crew morale and focus in a developing team that tests prototype parts constantly."
-    },
-    {
-      "name": "Manoel Delaval",
-      "rating": 85,
-      "salary": 1,
-      "desc": "A veteran satellite mechanic who ensures the team's limited pool of spares is always perfectly prepped."
-    },
-    {
-      "name": "Felix Rodriguez",
-      "rating": 84,
-      "salary": 1,
-      "desc": "Expertly manages the high-pressure workflow of a factory-supported junior team garage."
-    },
-    {
-      "name": "Ivan Cucchiarini",
-      "rating": 85,
-      "salary": 1,
-      "desc": "Coordinates a highly efficient crew capable of completely rebuilding crashed bikes in record time for qualifying."
-    },
-    {
-      "name": "David Castaneda",
-      "rating": 79,
-      "salary": 1,
-      "desc": "Guides a younger group of mechanics to maintain precision assembly standards on complex prototype machinery."
-    },
-    {
-      "name": "Pep Font",
-      "rating": 72,
-      "salary": 1,
-      "desc": "A master of paddock resourcefulness who ensures the garage runs smoothly despite strict budget limitations."
-    },
-    {
-      "name": "Robin Spijkers",
-      "rating": 78,
-      "salary": 1,
-      "desc": "A highly focused garage leader who excels at organizing flawless, high-pressure wheel and tire changes."
+      "td": [
+        {
+          "name": "Kouichi Tsuji",
+          "rating": 96,
+          "salary": 1,
+          "desc": "The engineering mastermind behind Yamaha's legendary smooth-handling M1 chassis philosophy."
+        },
+        {
+          "name": "Shinichi Kokubu",
+          "rating": 95,
+          "salary": 1,
+          "desc": "A brilliant developmental mind tasked with taming Honda's aggressive RC213V engine character."
+        },
+        {
+          "name": "Gigi Dall'Igna",
+          "rating": 99,
+          "salary": 1,
+          "desc": "The aerodynamic pioneer who fundamentally changed MotoGP with winglets and raw desmodromic power."
+        },
+        {
+          "name": "Ken Kawauchi",
+          "rating": 90,
+          "salary": 1,
+          "desc": "Successfully resurrected Suzuki's MotoGP project with an incredibly balanced inline-four chassis design."
+        },
+        {
+          "name": "Romano Albesiano",
+          "rating": 84,
+          "salary": 1,
+          "desc": "Working tirelessly to develop the newborn V4 RS-GP prototype into a competitive premier class package."
+        },
+        {
+          "name": "Guy Coulon",
+          "rating": 88,
+          "salary": 1,
+          "desc": "A paddock legend with decades of experience squeezing maximum performance out of satellite machinery."
+        },
+        {
+          "name": "Fabiano Sterlacchini",
+          "rating": 86,
+          "salary": 1,
+          "desc": "Maintained a direct technical pipeline to the factory to optimize Pramac's leased Desmosedici specifications."
+        },
+        {
+          "name": "Beefy Bourguignon",
+          "rating": 85,
+          "salary": 1,
+          "desc": "A highly adaptable technical lead capable of engineering podium-ready setups on a strict satellite budget."
+        },
+        {
+          "name": "Pete Benson",
+          "rating": 82,
+          "salary": 1,
+          "desc": "Former championship-winning engineer helping a young team navigate the brutal learning curve of MotoGP prototypes."
+        },
+        {
+          "name": "Javi Ullate",
+          "rating": 74,
+          "salary": 1,
+          "desc": "A resourceful director maximizing trackside performance out of older-generation, leased Ducati hardware."
+        },
+        {
+          "name": "Gino Borsoi",
+          "rating": 80,
+          "salary": 1,
+          "desc": "A sharp technical coordinator skilled at managing tight satellite budgets and executing engineering compromises."
+        }
+      ],
+      "rs": [
+        {
+          "name": "Davide Marelli",
+          "rating": 94,
+          "salary": 1,
+          "desc": "An expert in managing electronic traction strategies to maximize the new Michelin rear tyre life."
+        },
+        {
+          "name": "Gerold Vogel",
+          "rating": 93,
+          "salary": 1,
+          "desc": "Specializes in complex engine braking strategies to help riders cope with aggressive Honda downshifts."
+        },
+        {
+          "name": "Gabriele Conti",
+          "rating": 97,
+          "salary": 1,
+          "desc": "The software wizard responsible for unleashing Ducati's massive power without destroying the rear tire."
+        },
+        {
+          "name": "Claudio Rainato",
+          "rating": 88,
+          "salary": 1,
+          "desc": "Fine-tunes fuel mapping and electronic throttle delivery to preserve Suzuki's high mid-corner speeds."
+        },
+        {
+          "name": "Marco De Luca",
+          "rating": 82,
+          "salary": 1,
+          "desc": "Focuses heavily on basic electronic mapping to stabilize Aprilia's evolving spec-software suite."
+        },
+        {
+          "name": "Jean-Guillaume Goupil",
+          "rating": 85,
+          "salary": 1,
+          "desc": "Excels at reading real-time track telemetry to rapidly adjust power delivery for changing weather conditions."
+        },
+        {
+          "name": "Cristian Battaglia",
+          "rating": 86,
+          "salary": 1,
+          "desc": "Utilizes factory Ducati data streams to optimize race-distance fuel and tire conservation strategies."
+        },
+        {
+          "name": "David Garcia",
+          "rating": 84,
+          "salary": 1,
+          "desc": "A methodical data analyst who excels at adapting electronic settings to match shifting afternoon track temperatures."
+        },
+        {
+          "name": "Gilles Bigot",
+          "rating": 83,
+          "salary": 1,
+          "desc": "A veteran strategist who uses his massive GP experience to guide real-time fuel and mapping adaptations."
+        },
+        {
+          "name": "Bocha Alisia",
+          "rating": 72,
+          "salary": 1,
+          "desc": "Works minor miracles with limited sensor data to provide stable engine maps for his riders."
+        },
+        {
+          "name": "Diego Gubellini",
+          "rating": 81,
+          "salary": 1,
+          "desc": "A highly analytical strategist who focuses on maximizing corner-exit traction via custom software tweaks."
+        }
+      ],
+      "cm": [
+        {
+          "name": "Silvano Galbusera",
+          "rating": 95,
+          "salary": 1,
+          "desc": "Valentino Rossi's calm and deeply calculated crew chief who excels at finding race-day balance."
+        },
+        {
+          "name": "Santi Hernandez",
+          "rating": 98,
+          "salary": 1,
+          "desc": "Marc Márquez's trusted confidant, famous for making bold, aggressive setup choices that win titles."
+        },
+        {
+          "name": "Alberto Giribuola",
+          "rating": 92,
+          "salary": 1,
+          "desc": "A methodical engineer who helps translate raw rider feedback into precise mechanical traction."
+        },
+        {
+          "name": "Tom O'Kane",
+          "rating": 91,
+          "salary": 1,
+          "desc": "Highly experienced premier-class mastermind renowned for his chassis setup expertise and serene demeanor."
+        },
+        {
+          "name": "Marcus Eschenbacher",
+          "rating": 84,
+          "salary": 1,
+          "desc": "A versatile crew chief driving Aprilia's mechanical development under immense factory pressure."
+        },
+        {
+          "name": "Nicolas Goyon",
+          "rating": 87,
+          "salary": 1,
+          "desc": "A meticulous technician who specializes in giving satellite riders absolute front-end confidence on entry."
+        },
+        {
+          "name": "Daniele Romagnoli",
+          "rating": 88,
+          "salary": 1,
+          "desc": "A seasoned premier class crew chief who excels at making rapid setup pivots during shortened practice sessions."
+        },
+        {
+          "name": "Christophe Bourguignon",
+          "rating": 89,
+          "salary": 1,
+          "desc": "Cal Crutchlow's fiery crew chief who knows exactly how to build a bike for ultra-hard-braking riders."
+        },
+        {
+          "name": "Ramon Aurin",
+          "rating": 85,
+          "salary": 1,
+          "desc": "A veteran mechanic with deep HRC knowledge helping satellite Honda riders safely find their limits."
+        },
+        {
+          "name": "Christian Lundberg",
+          "rating": 76,
+          "salary": 1,
+          "desc": "A hardworking chief mechanic masterful at squeezing pace out of older, hand-me-down chassis components."
+        },
+        {
+          "name": "Juan Martinez",
+          "rating": 82,
+          "salary": 1,
+          "desc": "A well-respected paddock veteran known for his excellent psychological rider management and setup clarity."
+        }
+      ],
+      "pcc": [
+        {
+          "name": "Bernard Ansiau",
+          "rating": 94,
+          "salary": 1,
+          "desc": "A legendary spanner-man who demands absolute mechanical perfection under intense session time constraints."
+        },
+        {
+          "name": "Javier Ortiz",
+          "rating": 95,
+          "salary": 1,
+          "desc": "Honda's celebrated head mechanic who coordinates lightning-fast bike changes during unpredictable flag-to-flag races."
+        },
+        {
+          "name": "Marco Palmerini",
+          "rating": 92,
+          "salary": 1,
+          "desc": "Runs a tight, militaristic garage that consistently clocks the fastest engine and gearbox swaps in the paddock."
+        },
+        {
+          "name": "Jacques Roca",
+          "rating": 88,
+          "salary": 1,
+          "desc": "Keeps the Suzuki garage flawlessly organized to guarantee mistake-free, rapid structural parts replacement."
+        },
+        {
+          "name": "Pietro Caprara",
+          "rating": 80,
+          "salary": 1,
+          "desc": "Maintains high crew morale and focus in a developing team that tests prototype parts constantly."
+        },
+        {
+          "name": "Manoel Delaval",
+          "rating": 85,
+          "salary": 1,
+          "desc": "A veteran satellite mechanic who ensures the team's limited pool of spares is always perfectly prepped."
+        },
+        {
+          "name": "Felix Rodriguez",
+          "rating": 84,
+          "salary": 1,
+          "desc": "Expertly manages the high-pressure workflow of a factory-supported junior team garage."
+        },
+        {
+          "name": "Ivan Cucchiarini",
+          "rating": 85,
+          "salary": 1,
+          "desc": "Coordinates a highly efficient crew capable of completely rebuilding crashed bikes in record time for qualifying."
+        },
+        {
+          "name": "David Castaneda",
+          "rating": 79,
+          "salary": 1,
+          "desc": "Guides a younger group of mechanics to maintain precision assembly standards on complex prototype machinery."
+        },
+        {
+          "name": "Pep Font",
+          "rating": 72,
+          "salary": 1,
+          "desc": "A master of paddock resourcefulness who ensures the garage runs smoothly despite strict budget limitations."
+        },
+        {
+          "name": "Robin Spijkers",
+          "rating": 78,
+          "salary": 1,
+          "desc": "A highly focused garage leader who excels at organizing flawless, high-pressure wheel and tire changes."
         }
       ]
     },
