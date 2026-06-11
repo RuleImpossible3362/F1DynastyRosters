@@ -5396,274 +5396,274 @@
     "named": {
       "td": [
         {
-          "name": "Kouichi Tsuji",
-          "rating": 96,
-          "salary": 1,
-          "desc": "The engineering mastermind behind Yamahas legendary smooth-handling M1 chassis philosophy."
-        },
-        {
-          "name": "Shinichi Kokubu",
-          "rating": 95,
-          "salary": 1,
-          "desc": "A brilliant developmental mind tasked with taming Hondas aggressive RC213V engine character."
-        },
-        {
-          "name": "Gigi DallIgna",
-          "rating": 99,
-          "salary": 1,
-          "desc": "The aerodynamic pioneer who fundamentally changed MotoGP with winglets and raw desmodromic power."
-        },
-        {
-          "name": "Ken Kawauchi",
-          "rating": 90,
-          "salary": 1,
-          "desc": "Successfully resurrected Suzukis MotoGP project with an incredibly balanced inline-four chassis design."
-        },
-        {
-          "name": "Romano Albesiano",
-          "rating": 84,
-          "salary": 1,
-          "desc": "Working tirelessly to develop the newborn V4 RS-GP prototype into a competitive premier class package."
-        },
-        {
-          "name": "Guy Coulon",
-          "rating": 88,
-          "salary": 1,
-          "desc": "A paddock legend with decades of experience squeezing maximum performance out of satellite machinery."
-        },
-        {
-          "name": "Fabiano Sterlacchini",
-          "rating": 86,
-          "salary": 1,
-          "desc": "Maintained a direct technical pipeline to the factory to optimize Pramacs leased Desmosedici specifications."
-        },
-        {
-          "name": "Beefy Bourguignon",
-          "rating": 85,
-          "salary": 1,
-          "desc": "A highly adaptable technical lead capable of engineering podium-ready setups on a strict satellite budget."
-        },
-        {
-          "name": "Pete Benson",
-          "rating": 82,
-          "salary": 1,
-          "desc": "Former championship-winning engineer helping a young team navigate the brutal learning curve of MotoGP prototypes."
-        },
-        {
-          "name": "Javi Ullate",
-          "rating": 74,
-          "salary": 1,
-          "desc": "A resourceful director maximizing trackside performance out of older-generation, leased Ducati hardware."
-        },
-        {
-          "name": "Gino Borsoi",
-          "rating": 80,
-          "salary": 1,
-          "desc": "A sharp technical coordinator skilled at managing tight satellite budgets and executing engineering compromises."
-        }
-      ],
-      "rs": [
-        {
-          "name": "Davide Marelli",
-          "rating": 94,
-          "salary": 1,
-          "desc": "An expert in managing electronic traction strategies to maximize the new Michelin rear tyre life."
-        },
-        {
-          "name": "Gerold Vogel",
-          "rating": 93,
-          "salary": 1,
-          "desc": "Specializes in complex engine braking strategies to help riders cope with aggressive Honda downshifts."
-        },
-        {
-          "name": "Gabriele Conti",
-          "rating": 97,
-          "salary": 1,
-          "desc": "The software wizard responsible for unleashing Ducatis massive power without destroying the rear tire."
-        },
-        {
-          "name": "Claudio Rainato",
-          "rating": 88,
-          "salary": 1,
-          "desc": "Fine-tunes fuel mapping and electronic throttle delivery to preserve Suzukis high mid-corner speeds."
-        },
-        {
-          "name": "Marco De Luca",
-          "rating": 82,
-          "salary": 1,
-          "desc": "Focuses heavily on basic electronic mapping to stabilize Aprilias evolving spec-software suite."
-        },
-        {
-          "name": "Jean-Guillaume Goupil",
-          "rating": 85,
-          "salary": 1,
-          "desc": "Excels at reading real-time track telemetry to rapidly adjust power delivery for changing weather conditions."
-        },
-        {
-          "name": "Cristian Battaglia",
-          "rating": 86,
-          "salary": 1,
-          "desc": "Utilizes factory Ducati data streams to optimize race-distance fuel and tire conservation strategies."
-        },
-        {
-          "name": "David Garcia",
-          "rating": 84,
-          "salary": 1,
-          "desc": "A methodical data analyst who excels at adapting electronic settings to match shifting afternoon track temperatures."
-        },
-        {
-          "name": "Gilles Bigot",
-          "rating": 83,
-          "salary": 1,
-          "desc": "A veteran strategist who uses his massive GP experience to guide real-time fuel and mapping adaptations."
-        },
-        {
-          "name": "Bocha Alisia",
-          "rating": 72,
-          "salary": 1,
-          "desc": "Works minor miracles with limited sensor data to provide stable engine maps for his riders."
-        },
-        {
-          "name": "Diego Gubellini",
-          "rating": 81,
-          "salary": 1,
-          "desc": "A highly analytical strategist who focuses on maximizing corner-exit traction via custom software tweaks."
-        }
-      ],
-      "cm": [
-        {
-          "name": "Silvano Galbusera",
-          "rating": 95,
-          "salary": 1,
-          "desc": "Valentino Rossis calm and deeply calculated crew chief who excels at finding race-day balance."
-        },
-        {
-          "name": "Santi Hernandez",
-          "rating": 98,
-          "salary": 1,
-          "desc": "Marc Márquezs trusted confidant, famous for making bold, aggressive setup choices that win titles."
-        },
-        {
-          "name": "Alberto Giribuola",
-          "rating": 92,
-          "salary": 1,
-          "desc": "A methodical engineer who helps translate raw rider feedback into precise mechanical traction."
-        },
-        {
-          "name": "Tom OKane",
-          "rating": 91,
-          "salary": 1,
-          "desc": "Highly experienced premier-class mastermind renowned for his chassis setup expertise and serene demeanor."
-        },
-        {
-          "name": "Marcus Eschenbacher",
-          "rating": 84,
-          "salary": 1,
-          "desc": "A versatile crew chief driving Aprilias mechanical development under immense factory pressure."
-        },
-        {
-          "name": "Nicolas Goyon",
-          "rating": 87,
-          "salary": 1,
-          "desc": "A meticulous technician who specializes in giving satellite riders absolute front-end confidence on entry."
-        },
-        {
-          "name": "Daniele Romagnoli",
-          "rating": 88,
-          "salary": 1,
-          "desc": "A seasoned premier class crew chief who excels at making rapid setup pivots during shortened practice sessions."
-        },
-        {
-          "name": "Christophe Bourguignon",
-          "rating": 89,
-          "salary": 1,
-          "desc": "Cal Crutchlows fiery crew chief who knows exactly how to build a bike for ultra-hard-braking riders."
-        },
-        {
-          "name": "Ramon Aurin",
-          "rating": 85,
-          "salary": 1,
-          "desc": "A veteran mechanic with deep HRC knowledge helping satellite Honda riders safely find their limits."
-        },
-        {
-          "name": "Christian Lundberg",
-          "rating": 76,
-          "salary": 1,
-          "desc": "A hardworking chief mechanic masterful at squeezing pace out of older, hand-me-down chassis components."
-        },
-        {
-          "name": "Juan Martinez",
-          "rating": 82,
-          "salary": 1,
-          "desc": "A well-respected paddock veteran known for his excellent psychological rider management and setup clarity."
-        }
-      ],
-      "pcc": [
-        {
-          "name": "Bernard Ansiau",
-          "rating": 94,
-          "salary": 1,
-          "desc": "A legendary spanner-man who demands absolute mechanical perfection under intense session time constraints."
-        },
-        {
-          "name": "Javier Ortiz",
-          "rating": 95,
-          "salary": 1,
-          "desc": "Hondas celebrated head mechanic who coordinates lightning-fast bike changes during unpredictable flag-to-flag races."
-        },
-        {
-          "name": "Marco Palmerini",
-          "rating": 92,
-          "salary": 1,
-          "desc": "Runs a tight, militaristic garage that consistently clocks the fastest engine and gearbox swaps in the paddock."
-        },
-        {
-          "name": "Jacques Roca",
-          "rating": 88,
-          "salary": 1,
-          "desc": "Keeps the Suzuki garage flawlessly organized to guarantee mistake-free, rapid structural parts replacement."
-        },
-        {
-          "name": "Pietro Caprara",
-          "rating": 80,
-          "salary": 1,
-          "desc": "Maintains high crew morale and focus in a developing team that tests prototype parts constantly."
-        },
-        {
-          "name": "Manoel Delaval",
-          "rating": 85,
-          "salary": 1,
-          "desc": "A veteran satellite mechanic who ensures the teams limited pool of spares is always perfectly prepped."
-        },
-        {
-          "name": "Felix Rodriguez",
-          "rating": 84,
-          "salary": 1,
-          "desc": "Expertly manages the high-pressure workflow of a factory-supported junior team garage."
-        },
-        {
-          "name": "Ivan Cucchiarini",
-          "rating": 85,
-          "salary": 1,
-          "desc": "Coordinates a highly efficient crew capable of completely rebuilding crashed bikes in record time for qualifying."
-        },
-        {
-          "name": "David Castaneda",
-          "rating": 79,
-          "salary": 1,
-          "desc": "Guides a younger group of mechanics to maintain precision assembly standards on complex prototype machinery."
-        },
-        {
-          "name": "Pep Font",
-          "rating": 72,
-          "salary": 1,
-          "desc": "A master of paddock resourcefulness who ensures the garage runs smoothly despite strict budget limitations."
-        },
-        {
-          "name": "Robin Spijkers",
-          "rating": 78,
-          "salary": 1,
-          "desc": "A highly focused garage leader who excels at organizing flawless, high-pressure wheel and tire changes."
+ "name": "Gigi Dall'Igna",
+      "rating": 99,
+      "salary": 3,
+      "desc": "He is the mastermind behind Ducati's aerodynamic and engineering dominance in modern MotoGP."
+    },
+    {
+      "name": "Romano Albesiano",
+      "rating": 92,
+      "salary": 1,
+      "desc": "He is a pioneer in frame compliance and aero innovations who transformed the RS-GP into a premier title contender."
+    },
+    {
+      "name": "Fabiano Sterlacchini",
+      "rating": 94,
+      "salary": 2,
+      "desc": "He leverages deep engineering expertise to optimize the steel trellis frame and massive power delivery of the KTM."
+    },
+    {
+      "name": "Max Bartolini",
+      "rating": 93,
+      "salary": 2,
+      "desc": "He is tasked with breaking Yamaha out of its developmental rut with aggressive new engine philosophies."
+    },
+    {
+      "name": "Ken Kawauchi",
+      "rating": 89,
+      "salary": 1,
+      "desc": "He is a meticulous operational director focused on completely rebuilding the RC213V's rear-grip chassis dynamics."
+    },
+    {
+      "name": "Matteo Flamigni",
+      "rating": 87,
+      "salary": 1,
+      "desc": "He blends legendary paddock experience with satellite team agility to maximize data utilization."
+    },
+    {
+      "name": "Donatello Giovanardi",
+      "rating": 85,
+      "salary": 1,
+      "desc": "He masterfully adapts previous-year factory Ducati data to extract maximum efficiency for independent riders."
+    },
+    {
+      "name": "Massimo Targetti",
+      "rating": 88,
+      "salary": 1,
+      "desc": "He heads the massive technical transition as Pramac adopts and shapes the new Yamaha satellite program."
+    },
+    {
+      "name": "Wilco Zeelenberg",
+      "rating": 86,
+      "salary": 1,
+      "desc": "He brings elite paddock wisdom to optimize Aprilia's satellite platform for rising young talent."
+    },
+    {
+      "name": "Nicolas Goyon",
+      "rating": 85,
+      "salary": 1,
+      "desc": "He is a seasoned technical leader seamlessly managing the influx of factory-spec KTM hardware."
+    },
+    {
+      "name": "Christophe Bourguignon",
+      "rating": 84,
+      "salary": 1,
+      "desc": "He is a battle-hardened veteran who maximizes limited resources to extract surprising performance from the Honda package."
+    }
+  ],
+  "rs": [
+    {
+      "name": "Davide Tardozzi",
+      "rating": 96,
+      "salary": 1,
+      "desc": "He is a passionate tactical genius expert at managing inner-team rivalries and dynamic race-day tire selections."
+    },
+    {
+      "name": "Paolo Bonora",
+      "rating": 91,
+      "salary": 1,
+      "desc": "He specializes in mapping out complex fuel consumption curves and managing aggressive flag-to-flag stops."
+    },
+    {
+      "name": "Francesco Guidotti",
+      "rating": 93,
+      "salary": 1,
+      "desc": "He excels at mid-race adaptations and utilizing electronic launch strategies to gain early track position."
+    },
+    {
+      "name": "Maio Meregalli",
+      "rating": 92,
+      "salary": 1,
+      "desc": "He focuses on high-corner-speed race pacing strategies to offset top-speed deficits on long straights."
+    },
+    {
+      "name": "Alberto Puig",
+      "rating": 88,
+      "salary": 1,
+      "desc": "He is a direct, hard-nosed tactician known for taking high-risk, high-reward gambles in variable weather conditions."
+    },
+    {
+      "name": "Pablo Nieto",
+      "rating": 87,
+      "salary": 1,
+      "desc": "He expertly nurtures young talent while building highly calculated, conservative points-scoring race plans."
+    },
+    {
+      "name": "Michele Masini",
+      "rating": 86,
+      "salary": 1,
+      "desc": "He masters the art of capitalizing on front-runner mistakes with versatile, adaptive weekend run plans."
+    },
+    {
+      "name": "Gino Borsoi",
+      "rating": 94,
+      "salary": 1,
+      "desc": "He is a championship-winning manager expertly guiding strategic alignment during the crucial Yamaha transition."
+    },
+    {
+      "name": "Davide Brivio",
+      "rating": 95,
+      "salary": 1,
+      "desc": "He leverages premier world championship experience to maximize satellite race setups and team execution."
+    },
+    {
+      "name": "Hervé Poncharal",
+      "rating": 90,
+      "salary": 1,
+      "desc": "He is famous for brilliant wet-weather gambles and relying on his decades of gut-instinct strategies."
+    },
+    {
+      "name": "Lucio Cecchinello",
+      "rating": 89,
+      "salary": 1,
+      "desc": "He consistently engineers top-satellite results through clever defensive racing and fuel-save strategies."
+    }
+  ],
+  "cm": [
+    {
+      "name": "Cristian Gabarrini",
+      "rating": 98,
+      "salary": 1,
+      "desc": "He is a legendary engineer guiding top champions through ultra-precise electronic mappings and mechanical setups."
+    },
+    {
+      "name": "Manu Cazeaux",
+      "rating": 93,
+      "salary": 1,
+      "desc": "He is renowned for his exceptional ability to translate direct rider feedback into instant chassis changes."
+    },
+    {
+      "name": "Paul Trevathan",
+      "rating": 94,
+      "salary": 1,
+      "desc": "He serves as the backbone of KTM's garage development, tailoring aggressive geometries to handle intense braking zones."
+    },
+    {
+      "name": "Diego Gubellini",
+      "rating": 92,
+      "salary": 1,
+      "desc": "He is a master of perfecting fine chassis balance to keep the inline-four layout razor-sharp in fast turns."
+    },
+    {
+      "name": "Giacomo Guidotti",
+      "rating": 88,
+      "salary": 1,
+      "desc": "He patiently sorts through structural modifications to locate elusive front-end feel for the factory riders."
+    },
+    {
+      "name": "David Muñoz",
+      "rating": 89,
+      "salary": 1,
+      "desc": "He combines years of top-tier experience to build ultra-stable, confidence-inspiring setups for his riders."
+    },
+    {
+      "name": "Javi Ortiz",
+      "rating": 86,
+      "salary": 1,
+      "desc": "He is highly celebrated for quick mechanical diagnostics and flawless bike rebuilds under extreme time constraints."
+    },
+    {
+      "name": "Patrick Primmer",
+      "rating": 88,
+      "salary": 1,
+      "desc": "He navigates a fresh mechanical ecosystem with deep technical flexibility during the manufacturer swap."
+    },
+    {
+      "name": "Giovanni Mattarollo",
+      "rating": 87,
+      "salary": 1,
+      "desc": "He translates complex factory data into user-friendly adjustments for independent team riders."
+    },
+    {
+      "name": "Esteban Garcia",
+      "rating": 90,
+      "salary": 1,
+      "desc": "He brings championship-caliber mechanical execution to elevate Tech3's factory-backed operations."
+    },
+    {
+      "name": "Klaus Nöhles",
+      "rating": 85,
+      "salary": 1,
+      "desc": "He specializes in maximizing suspension performance to compensate for entry-corner instability."
+    }
+  ],
+  "pcc": [
+    {
+      "name": "Marco Palmerini",
+      "rating": 95,
+      "salary": 1,
+      "desc": "He runs a military-grade pit garage known for flawlessly executing lightning-fast bike swaps during flag-to-flag chaos."
+    },
+    {
+      "name": "Stefano Rossi",
+      "rating": 91,
+      "salary": 1,
+      "desc": "He meticulously enforces safety checklists while maintaining an elite level of efficiency under intense qualifying pressure."
+    },
+    {
+      "name": "Christian Korntner",
+      "rating": 93,
+      "salary": 1,
+      "desc": "He keeps the KTM garage operating like clockwork with lightning-fast tire changes and wheel alignment routines."
+    },
+    {
+      "name": "Tom O'Kane",
+      "rating": 92,
+      "salary": 1,
+      "desc": "He is a legendary paddock figure overseeing precise, calm, and synchronized garage operations."
+    },
+    {
+      "name": "Aurelio Lee",
+      "rating": 86,
+      "salary": 1,
+      "desc": "He is a disciplined operations chief striving for absolute precision during heavy developmental testing weekends."
+    },
+    {
+      "name": "Roberto Locatelli",
+      "rating": 88,
+      "salary": 1,
+      "desc": "He infuses the crew with intense Italian racing passion while maintaining strict, error-free mechanical protocols."
+    },
+    {
+      "name": "Sergio Verbena",
+      "rating": 87,
+      "salary": 1,
+      "desc": "He is known for his reassuring composure and flawless garage organization during high-stress session turnarounds."
+    },
+    {
+      "name": "Felix Rodriguez",
+      "rating": 89,
+      "salary": 1,
+      "desc": "He orchestrates an entirely updated garage layout to accommodate new mechanical architectures seamlessly."
+    },
+    {
+      "name": "Ian Wheeler",
+      "rating": 86,
+      "salary": 1,
+      "desc": "He coordinates an international pit crew with sharp scheduling and precise logistical execution."
+    },
+    {
+      "name": "Alex Merhand",
+      "rating": 88,
+      "salary": 1,
+      "desc": "He directs a highly synchronized, passionate crew capable of matching the speed of the elite factory teams."
+    },
+    {
+      "name": "Oliver Pendelbury",
+      "rating": 85,
+      "salary": 1,
+      "desc": "He is a reliable operations head who excels at keeping the tight-knit satellite crew performing perfectly."
         }
       ]
     },
