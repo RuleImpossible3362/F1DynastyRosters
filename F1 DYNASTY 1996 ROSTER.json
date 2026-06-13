@@ -6,9 +6,14 @@
       "nation": "British",
       "prestige": 55,
       "carPerformance": 64,
+      "topSpeed": 64,
+      "cornering": 64,
+      "tyreManagement": 64,
+      "dirtyAir": 64,
+      "aeroEfficiency": 64,
       "engineManufacturer": "custom_eng_1777538952934",
       "downforce": 55,
-      "reliability": 44,
+      "reliability": 40,
       "developmentRate": 72,
       "facilities": 62,
       "revenue": 150,
@@ -71,12 +76,7 @@
           "value": 2,
           "type": "Associate"
         }
-      ],
-      "topSpeed": 64,
-      "cornering": 64,
-      "tyreManagement": 64,
-      "dirtyAir": 64,
-      "aeroEfficiency": 64
+      ]
     },
     {
       "id": "ferrari",
@@ -84,6 +84,11 @@
       "nation": "Italian",
       "prestige": 100,
       "carPerformance": 84,
+      "topSpeed": 84,
+      "cornering": 84,
+      "tyreManagement": 84,
+      "dirtyAir": 84,
+      "aeroEfficiency": 84,
       "engineManufacturer": "ferrari",
       "downforce": 50,
       "reliability": 40,
@@ -149,12 +154,7 @@
           "value": 5,
           "type": "Associate"
         }
-      ],
-      "topSpeed": 84,
-      "cornering": 84,
-      "tyreManagement": 84,
-      "dirtyAir": 84,
-      "aeroEfficiency": 84
+      ]
     },
     {
       "id": "mercedes",
@@ -162,9 +162,14 @@
       "nation": "British",
       "prestige": 78,
       "carPerformance": 74,
+      "topSpeed": 74,
+      "cornering": 74,
+      "tyreManagement": 74,
+      "dirtyAir": 74,
+      "aeroEfficiency": 74,
       "engineManufacturer": "custom_eng_1777538955014",
       "downforce": 50,
-      "reliability": 46,
+      "reliability": 41,
       "developmentRate": 70,
       "facilities": 66,
       "revenue": 165,
@@ -227,12 +232,7 @@
           "value": 2,
           "type": "Technical"
         }
-      ],
-      "topSpeed": 74,
-      "cornering": 74,
-      "tyreManagement": 74,
-      "dirtyAir": 74,
-      "aeroEfficiency": 74
+      ]
     },
     {
       "id": "mclaren",
@@ -240,9 +240,14 @@
       "nation": "British",
       "prestige": 94,
       "carPerformance": 85,
+      "topSpeed": 85,
+      "cornering": 85,
+      "tyreManagement": 85,
+      "dirtyAir": 85,
+      "aeroEfficiency": 85,
       "engineManufacturer": "mercedes",
       "downforce": 50,
-      "reliability": 44,
+      "reliability": 41,
       "developmentRate": 92,
       "facilities": 95,
       "revenue": 360,
@@ -305,12 +310,7 @@
           "value": 5,
           "type": "Associate"
         }
-      ],
-      "topSpeed": 85,
-      "cornering": 85,
-      "tyreManagement": 85,
-      "dirtyAir": 85,
-      "aeroEfficiency": 85
+      ]
     },
     {
       "id": "aston",
@@ -318,9 +318,14 @@
       "nation": "Irish",
       "prestige": 72,
       "carPerformance": 86,
+      "topSpeed": 86,
+      "cornering": 86,
+      "tyreManagement": 86,
+      "dirtyAir": 86,
+      "aeroEfficiency": 86,
       "engineManufacturer": "redbullford",
       "downforce": 50,
-      "reliability": 50,
+      "reliability": 42,
       "developmentRate": 84,
       "facilities": 78,
       "revenue": 230,
@@ -383,12 +388,7 @@
           "value": 3,
           "type": "Secondary"
         }
-      ],
-      "topSpeed": 86,
-      "cornering": 86,
-      "tyreManagement": 86,
-      "dirtyAir": 86,
-      "aeroEfficiency": 86
+      ]
     },
     {
       "id": "alpine",
@@ -396,9 +396,14 @@
       "nation": "Italian",
       "prestige": 88,
       "carPerformance": 89,
+      "topSpeed": 89,
+      "cornering": 89,
+      "tyreManagement": 89,
+      "dirtyAir": 89,
+      "aeroEfficiency": 89,
       "engineManufacturer": "custom_eng_1777538993270",
       "downforce": 50,
-      "reliability": 57,
+      "reliability": 45,
       "developmentRate": 88,
       "facilities": 94,
       "revenue": 380,
@@ -461,12 +466,7 @@
           "value": 4,
           "type": "Associate"
         }
-      ],
-      "topSpeed": 89,
-      "cornering": 89,
-      "tyreManagement": 89,
-      "dirtyAir": 89,
-      "aeroEfficiency": 89
+      ]
     },
     {
       "id": "williams",
@@ -474,9 +474,14 @@
       "nation": "British",
       "prestige": 95,
       "carPerformance": 91,
+      "topSpeed": 91,
+      "cornering": 91,
+      "tyreManagement": 91,
+      "dirtyAir": 91,
+      "aeroEfficiency": 91,
       "engineManufacturer": "custom_eng_1777538993270",
       "downforce": 50,
-      "reliability": 60,
+      "reliability": 48,
       "developmentRate": 94,
       "facilities": 98,
       "revenue": 440,
@@ -539,12 +544,7 @@
           "value": 2,
           "type": "Associate"
         }
-      ],
-      "topSpeed": 91,
-      "cornering": 91,
-      "tyreManagement": 91,
-      "dirtyAir": 91,
-      "aeroEfficiency": 91
+      ]
     },
     {
       "id": "racingbulls",
@@ -552,9 +552,14 @@
       "nation": "Italian",
       "prestige": 58,
       "carPerformance": 58,
+      "topSpeed": 58,
+      "cornering": 58,
+      "tyreManagement": 58,
+      "dirtyAir": 58,
+      "aeroEfficiency": 58,
       "engineManufacturer": "custom_eng_1777539021191",
       "downforce": 50,
-      "reliability": 44,
+      "reliability": 40,
       "developmentRate": 62,
       "facilities": 52,
       "revenue": 135,
@@ -617,12 +622,7 @@
           "value": 1,
           "type": "Secondary"
         }
-      ],
-      "topSpeed": 58,
-      "cornering": 58,
-      "tyreManagement": 58,
-      "dirtyAir": 58,
-      "aeroEfficiency": 58
+      ]
     },
     {
       "id": "haas",
@@ -630,9 +630,14 @@
       "nation": "French",
       "prestige": 65,
       "carPerformance": 80,
+      "topSpeed": 80,
+      "cornering": 80,
+      "tyreManagement": 80,
+      "dirtyAir": 80,
+      "aeroEfficiency": 80,
       "engineManufacturer": "honda",
       "downforce": 50,
-      "reliability": 54,
+      "reliability": 42,
       "developmentRate": 76,
       "facilities": 74,
       "revenue": 195,
@@ -695,12 +700,7 @@
           "value": 4,
           "type": "Technical"
         }
-      ],
-      "topSpeed": 80,
-      "cornering": 80,
-      "tyreManagement": 80,
-      "dirtyAir": 80,
-      "aeroEfficiency": 80
+      ]
     },
     {
       "id": "audi",
@@ -708,9 +708,14 @@
       "nation": "Swiss",
       "prestige": 68,
       "carPerformance": 82,
+      "topSpeed": 82,
+      "cornering": 82,
+      "tyreManagement": 82,
+      "dirtyAir": 82,
+      "aeroEfficiency": 82,
       "engineManufacturer": "audi",
       "downforce": 50,
-      "reliability": 55,
+      "reliability": 43,
       "developmentRate": 80,
       "facilities": 80,
       "revenue": 210,
@@ -773,12 +778,7 @@
           "value": 2,
           "type": "Technical"
         }
-      ],
-      "topSpeed": 82,
-      "cornering": 82,
-      "tyreManagement": 82,
-      "dirtyAir": 82,
-      "aeroEfficiency": 82
+      ]
     },
     {
       "id": "cadillac",
@@ -786,6 +786,11 @@
       "nation": "Italy",
       "prestige": 20,
       "carPerformance": 50,
+      "topSpeed": 50,
+      "cornering": 50,
+      "tyreManagement": 50,
+      "dirtyAir": 50,
+      "aeroEfficiency": 50,
       "engineManufacturer": "custom_eng_1777539039247",
       "downforce": 50,
       "reliability": 40,
@@ -851,12 +856,7 @@
           "value": 1,
           "type": "Associate"
         }
-      ],
-      "topSpeed": 50,
-      "cornering": 50,
-      "tyreManagement": 50,
-      "dirtyAir": 50,
-      "aeroEfficiency": 50
+      ]
     }
   ],
   "seasonDrivers": {
@@ -6095,7 +6095,7 @@
       "shortName": "Mercedes",
       "powerRating": 93,
       "ersRating": 50,
-      "reliability": 84,
+      "reliability": 58,
       "devRate": 8,
       "maxCustomers": 1,
       "annualCost": 15,
@@ -6111,7 +6111,7 @@
       "shortName": "Ferrari",
       "powerRating": 95,
       "ersRating": 50,
-      "reliability": 72,
+      "reliability": 52,
       "devRate": 9,
       "maxCustomers": 3,
       "annualCost": 15,
@@ -6127,7 +6127,7 @@
       "shortName": "Mugen-Honda",
       "powerRating": 88,
       "ersRating": 50,
-      "reliability": 85,
+      "reliability": 62,
       "devRate": 6,
       "maxCustomers": 1,
       "annualCost": 15,
@@ -6143,7 +6143,7 @@
       "shortName": "Peugeot",
       "powerRating": 90,
       "ersRating": 50,
-      "reliability": 68,
+      "reliability": 55,
       "devRate": 7,
       "maxCustomers": 1,
       "annualCost": 15,
@@ -6159,7 +6159,7 @@
       "shortName": "Ford",
       "powerRating": 85,
       "ersRating": 50,
-      "reliability": 76,
+      "reliability": 60,
       "devRate": 7,
       "maxCustomers": 1,
       "annualCost": 15,
@@ -6175,7 +6175,7 @@
       "shortName": "Hart",
       "powerRating": 74,
       "ersRating": 50,
-      "reliability": 76,
+      "reliability": 51,
       "devRate": 3,
       "maxCustomers": 1,
       "annualCost": 15,
@@ -6188,7 +6188,7 @@
       "shortName": "Yamaha",
       "powerRating": 82,
       "ersRating": 50,
-      "reliability": 55,
+      "reliability": 50,
       "devRate": 8,
       "maxCustomers": 1,
       "annualCost": 15,
@@ -6203,7 +6203,7 @@
       "shortName": "Renault",
       "powerRating": 96,
       "ersRating": 50,
-      "reliability": 94,
+      "reliability": 68,
       "devRate": 6,
       "maxCustomers": 3,
       "annualCost": 15,
@@ -6219,7 +6219,7 @@
       "shortName": "Ford",
       "powerRating": 66,
       "ersRating": 50,
-      "reliability": 90,
+      "reliability": 52,
       "devRate": 2,
       "maxCustomers": 1,
       "annualCost": 15,
@@ -6232,7 +6232,7 @@
       "shortName": "Ford",
       "powerRating": 65,
       "ersRating": 50,
-      "reliability": 88,
+      "reliability": 50,
       "devRate": 1,
       "maxCustomers": 1,
       "annualCost": 15,
