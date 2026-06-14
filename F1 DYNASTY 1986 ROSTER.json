@@ -1313,7 +1313,7 @@
         },
         {
           "name": "Alessandro Nannini",
-          "nationality": "British",
+          "nationality": "Italian",
           "trait": "aggressive",
           "age": 27,
           "rating": 76,
@@ -7981,324 +7981,324 @@
   ],
   "staffPool": {
     "named": {
-"td": [
-    {
-      "name": "Patrick Head",
-      "rating": 96,
-      "salary": 2,
-      "desc": "The engineering backbone of Williams who famously designed the ultra-robust, championship-winning FW11 chassis."
-    },
-    {
-      "name": "John Barnard",
-      "rating": 95,
-      "salary": 1,
-      "desc": "A design visionary who revolutionized Formula 1 by pioneering carbon-fiber monocoques and tight rear car packaging."
-    },
-    {
-      "name": "Gordon Murray",
-      "rating": 93,
-      "salary": 1,
-      "desc": "A radical design genius who pushed physics to the limit in 1986 with the experimental, ultra-low-line BT55."
-    },
-    {
-      "name": "Gérard Ducarouge",
-      "rating": 91,
-      "salary": 1,
-      "desc": "An elegant French designer whose lightweight aerodynamic concepts formed a lethal combination with Ayrton Senna's raw speed."
-    },
-    {
-      "name": "Harvey Postlethwaite",
-      "rating": 89,
-      "salary": 1,
-      "desc": "A highly respected British engineer tasked with taming Ferrari's brutal turbo engine power with improved chassis handling."
-    },
-    {
-      "name": "Rory Byrne",
-      "rating": 88,
-      "salary": 1,
-      "desc": "A highly creative aerodynamicist whose striking B186 chassis gave the team its spectacular maiden victory in Mexico."
-    },
-    {
-      "name": "Neil Oatley",
-      "rating": 84,
-      "salary": 1,
-      "desc": "A thoroughly meticulous designer who crafted a highly polished, clean chassis for this ambitious, short-lived American entry."
-    },
-    {
-      "name": "Michel Tétu",
-      "rating": 83,
-      "salary": 1,
-      "desc": "A practical French engineer who cleverly optimized the proven Renault turbo package to score consistent podiums early in the year."
-    },
-    {
-      "name": "Maurice Philippe",
-      "rating": 82,
-      "salary": 1,
-      "desc": "A veteran designer who worked miracles on a limited budget to transition Tyrrell safely into the high-horsepower turbo era."
-    },
-    {
-      "name": "Dave Wass",
-      "rating": 79,
-      "salary": 1,
-      "desc": "A pragmatic designer who prioritized mechanical durability to keep his drivers competitive within a brutal midfield."
-    },
-    {
-      "name": "Paul Brown",
-      "rating": 75,
-      "salary": 1,
-      "desc": "An ambitious engineer who undertook the immense task of developing both the chassis and the proprietary engine for Germany's sole entry."
-    },
-    {
-      "name": "Giacomo Caliri",
-      "rating": 73,
-      "salary": 1,
-      "desc": "An experienced Italian aerodynamicist who worked tirelessly to lay a functional engineering foundation for the young Faenza squad."
-    },
-    {
-      "name": "Giuseppe Petrotta",
-      "rating": 66,
-      "salary": 1,
-      "desc": "A resilient technical director who performed minor miracles to keep a highly underfunded package running on the grid."
-    }
-  ],
-  "rs": [
-    {
-      "name": "Ron Dennis",
-      "rating": 97,
-      "salary": 1,
-      "desc": "A relentless perfectionist whose masterful tactical planning and fuel calculation calls secured Alain Prost the 1986 championship."
-    },
-    {
-      "name": "Peter Windsor",
-      "rating": 92,
-      "salary": 1,
-      "desc": "Managed trackside operations during a turbulent year, carefully handling the explosive rivalry between Mansell and Piquet."
-    },
-    {
-      "name": "Peter Warr",
-      "rating": 89,
-      "salary": 1,
-      "desc": "A sharp-witted operator who built the team's entire operational and political focus around the brilliance of Ayrton Senna."
-    },
-    {
-      "name": "Ken Tyrrell",
-      "rating": 88,
-      "salary": 1,
-      "desc": "The legendary team boss who leveraged decades of elite tactical intuition to out-maneuver better-funded factory teams."
-    },
-    {
-      "name": "Herbie Blash",
-      "rating": 88,
-      "salary": 1,
-      "desc": "A highly adaptable team manager who held the crew together and made calm tactical decisions through a very difficult transition year."
-    },
-    {
-      "name": "Marco Piccinini",
-      "rating": 87,
-      "salary": 1,
-      "desc": "A commanding tactical figure who used his deep political savvy to keep Ferrari afloat during a mechanically grueling campaign."
-    },
-    {
-      "name": "Peter Collins",
-      "rating": 86,
-      "salary": 1,
-      "desc": "A clever strategist who orchestrated a brilliant tire-management plan that completely outsmarted the grid at the Mexican Grand Prix."
-    },
-    {
-      "name": "Teddy Mayer",
-      "rating": 85,
-      "salary": 1,
-      "desc": "A veteran executive who brought immense championship-winning poise to guide this new team's operational strategy from the pit wall."
-    },
-    {
-      "name": "Guy Ligier",
-      "rating": 82,
-      "salary": 1,
-      "desc": "A fiercely passionate team owner whose emotional, aggressive race calls extracted everything possible from his French machinery."
-    },
-    {
-      "name": "Jackie Oliver",
-      "rating": 78,
-      "salary": 1,
-      "desc": "A shrewd, realistic operator who constructed risk-averse strategies designed to capitalize on the mechanical failures of faster cars."
-    },
-    {
-      "name": "Giancarlo Minardi",
-      "rating": 77,
-      "salary": 1,
-      "desc": "A deeply beloved figure whose tactical gambles aimed to give his raw, young drivers the best shot at seeing the checkered flag."
-    },
-    {
-      "name": "Erich Zakowski",
-      "rating": 74,
-      "salary": 1,
-      "desc": "A dedicated team owner who micro-managed his pit wall to focus strictly on maximizing reliability and learning for his home-grown squad."
-    },
-    {
-      "name": "Enzo Osella",
-      "rating": 65,
-      "salary": 1,
-      "desc": "A courageous underdog who focused his minimal resources on making the grid and surviving the brutal mechanical attrition of the era."
-    }
-  ],
-  "cm": [
-    {
-      "name": "Joan Villadelprat",
-      "rating": 95,
-      "salary": 1,
-      "desc": "A world-class wrench who ensured Alain Prost’s McLaren cars were built with absolute mechanical perfection and surgical precision."
-    },
-    {
-      "name": "Alan Challis",
-      "rating": 94,
-      "salary": 1,
-      "desc": "Ran a highly disciplined garage capable of maintaining the complex Honda turbos at a flawless performance standard all year."
-    },
-    {
-      "name": "Charlie Whiting",
-      "rating": 93,
-      "salary": 1,
-      "desc": "A brilliant mechanical mind whose leadership in the Brabham garage ensured the radical, lay-down BMW engines were expertly installed."
-    },
-    {
-      "name": "Nigel Stepney",
-      "rating": 92,
-      "salary": 1,
-      "desc": "Ayrton Senna’s preferred mechanic whose intense work ethic kept the fragile Renault-powered Lotus operating at peak qualifying trim."
-    },
-    {
-      "name": "Valerio Riva",
-      "rating": 88,
-      "salary": 1,
-      "desc": "A passionate leader who held Maranello’s crew together under high pressure despite frequent, heartbreaking engine failures."
-    },
-    {
-      "name": "John Walton",
-      "rating": 86,
-      "salary": 1,
-      "desc": "Brought immense grit from the old Toleman squad to mold Benetton's fresh garage into a highly professional, race-winning unit."
-    },
-    {
-      "name": "Mick Cook",
-      "rating": 83,
-      "salary": 1,
-      "desc": "Maintained exceptional build quality on the brand-new Ford-powered cars, earning widespread respect across the paddock for his efficiency."
-    },
-    {
-      "name": "Jean-Pierre Diot",
-      "rating": 81,
-      "salary": 1,
-      "desc": "A loyal veteran who knew the ins and outs of French motorsport, ensuring the Ligier chassis was robust and well-prepared."
-    },
-    {
-      "name": "Roger Hill",
-      "rating": 80,
-      "salary": 1,
-      "desc": "An old-school mechanic who kept the Tyrrell garage organized and highly efficient despite working with a tiny workforce."
-    },
-    {
-      "name": "Greg Baker",
-      "rating": 78,
-      "salary": 1,
-      "desc": "A reliable midfield veteran who specialized in quick, structural repairs to ensure maximum running time during practice and qualifying."
-    },
-    {
-      "name": "Helmut Barth",
-      "rating": 73,
-      "salary": 1,
-      "desc": "A tireless technician who meticulously managed the unique demands of Zakspeed’s highly volatile, custom in-house turbo engine."
-    },
-    {
-      "name": "Paolo Dalla Rosa",
-      "rating": 71,
-      "salary": 1,
-      "desc": "Directed a young, passionate crew of mechanics who worked late into the night to overcome the teething issues of a new chassis."
-    },
-    {
-      "name": "Felice Noe",
-      "rating": 66,
-      "salary": 1,
-      "desc": "A true survivor of the pit lane who masterfully fabricated parts out of nothing to ensure his cars simply made the race."
-    }
-  ],
-  "pcc": [
-    {
-      "name": "Neil Trundle",
-      "rating": 94,
-      "salary": 1,
-      "desc": "Ron Dennis’s trusted right-hand man who brought a legendary standard of synchronization and calm to the high-stakes McLaren pit stops."
-    },
-    {
-      "name": "Bob McMurray",
-      "rating": 93,
-      "salary": 1,
-      "desc": "Drilled the Williams crew to execute lightning-fast tire swaps that proved critical during the tight championship battles."
-    },
-    {
-      "name": "Bob Dance",
-      "rating": 91,
-      "salary": 1,
-      "desc": "A revered Lotus icon whose steady composure calmed the crew during high-pressure stops for a charging Ayrton Senna."
-    },
-    {
-      "name": "David Sims",
-      "rating": 90,
-      "salary": 1,
-      "desc": "A legendary figure who ran flawless pit lanes back when Brabham was pioneering the art of the modern tactical fuel stop."
-    },
-    {
-      "name": "Pietro Corradini",
-      "rating": 89,
-      "salary": 1,
-      "desc": "Infused the Scuderia pit crew with immense Italian passion, demanding rapid, coordinated physical execution under immense media scrutiny."
-    },
-    {
-      "name": "Steve Matchett",
-      "rating": 85,
-      "salary": 1,
-      "desc": "A sharp, fast-learning technician who brought a modern, analytical approach to crew execution on the pit lane."
-    },
-    {
-      "name": "Daniel Champion",
-      "rating": 82,
-      "salary": 1,
-      "desc": "Kept the French crew perfectly focused and disciplined during chaotic, rain-threatened pit stops throughout the 1986 season."
-    },
-    {
-      "name": "Frank Coppuck",
-      "rating": 81,
-      "salary": 1,
-      "desc": "Implemented slick, American-inspired drill routines to ensure the new team's pit stops were competitive from day one."
-    },
-    {
-      "name": "Simon Morley",
-      "rating": 79,
-      "salary": 1,
-      "desc": "Compensated for a lack of automated equipment with highly coordinated, muscle-memory teamwork that punched well above its weight."
-    },
-    {
-      "name": "James Robinson",
-      "rating": 77,
-      "salary": 1,
-      "desc": "Focused heavily on safe, error-free wheel changes to avoid throwing away hard-earned midfield positions."
-    },
-    {
-      "name": "Heinz-Jürgen Schorle",
-      "rating": 74,
-      "salary": 1,
-      "desc": "Led a small but incredibly patriotic German crew that took immense pride in clean, steady pit lane execution."
-    },
-    {
-      "name": "Bruno Garagnani",
-      "rating": 72,
-      "salary": 1,
-      "desc": "Managed a volatile but enthusiastic group, prioritizing structural safety and clear communication over raw speed."
-    },
-    {
-      "name": "Stefano Osella",
-      "rating": 65,
-      "salary": 1,
-      "desc": "Bravely directed a skeleton crew under immense stress, ensuring that basic tire swaps were completed safely on a shoestring budget."
+      "td": [
+        {
+          "name": "Patrick Head",
+          "rating": 96,
+          "salary": 2,
+          "desc": "The engineering backbone of Williams who famously designed the ultra-robust, championship-winning FW11 chassis."
+        },
+        {
+          "name": "John Barnard",
+          "rating": 95,
+          "salary": 1,
+          "desc": "A design visionary who revolutionized Formula 1 by pioneering carbon-fiber monocoques and tight rear car packaging."
+        },
+        {
+          "name": "Gordon Murray",
+          "rating": 93,
+          "salary": 1,
+          "desc": "A radical design genius who pushed physics to the limit in 1986 with the experimental, ultra-low-line BT55."
+        },
+        {
+          "name": "Gérard Ducarouge",
+          "rating": 91,
+          "salary": 1,
+          "desc": "An elegant French designer whose lightweight aerodynamic concepts formed a lethal combination with Ayrton Senna's raw speed."
+        },
+        {
+          "name": "Harvey Postlethwaite",
+          "rating": 89,
+          "salary": 1,
+          "desc": "A highly respected British engineer tasked with taming Ferrari's brutal turbo engine power with improved chassis handling."
+        },
+        {
+          "name": "Rory Byrne",
+          "rating": 88,
+          "salary": 1,
+          "desc": "A highly creative aerodynamicist whose striking B186 chassis gave the team its spectacular maiden victory in Mexico."
+        },
+        {
+          "name": "Neil Oatley",
+          "rating": 84,
+          "salary": 1,
+          "desc": "A thoroughly meticulous designer who crafted a highly polished, clean chassis for this ambitious, short-lived American entry."
+        },
+        {
+          "name": "Michel Tétu",
+          "rating": 83,
+          "salary": 1,
+          "desc": "A practical French engineer who cleverly optimized the proven Renault turbo package to score consistent podiums early in the year."
+        },
+        {
+          "name": "Maurice Philippe",
+          "rating": 82,
+          "salary": 1,
+          "desc": "A veteran designer who worked miracles on a limited budget to transition Tyrrell safely into the high-horsepower turbo era."
+        },
+        {
+          "name": "Dave Wass",
+          "rating": 79,
+          "salary": 1,
+          "desc": "A pragmatic designer who prioritized mechanical durability to keep his drivers competitive within a brutal midfield."
+        },
+        {
+          "name": "Paul Brown",
+          "rating": 75,
+          "salary": 1,
+          "desc": "An ambitious engineer who undertook the immense task of developing both the chassis and the proprietary engine for Germany's sole entry."
+        },
+        {
+          "name": "Giacomo Caliri",
+          "rating": 73,
+          "salary": 1,
+          "desc": "An experienced Italian aerodynamicist who worked tirelessly to lay a functional engineering foundation for the young Faenza squad."
+        },
+        {
+          "name": "Giuseppe Petrotta",
+          "rating": 66,
+          "salary": 1,
+          "desc": "A resilient technical director who performed minor miracles to keep a highly underfunded package running on the grid."
+        }
+      ],
+      "rs": [
+        {
+          "name": "Ron Dennis",
+          "rating": 97,
+          "salary": 1,
+          "desc": "A relentless perfectionist whose masterful tactical planning and fuel calculation calls secured Alain Prost the 1986 championship."
+        },
+        {
+          "name": "Peter Windsor",
+          "rating": 92,
+          "salary": 1,
+          "desc": "Managed trackside operations during a turbulent year, carefully handling the explosive rivalry between Mansell and Piquet."
+        },
+        {
+          "name": "Peter Warr",
+          "rating": 89,
+          "salary": 1,
+          "desc": "A sharp-witted operator who built the team's entire operational and political focus around the brilliance of Ayrton Senna."
+        },
+        {
+          "name": "Ken Tyrrell",
+          "rating": 88,
+          "salary": 1,
+          "desc": "The legendary team boss who leveraged decades of elite tactical intuition to out-maneuver better-funded factory teams."
+        },
+        {
+          "name": "Herbie Blash",
+          "rating": 88,
+          "salary": 1,
+          "desc": "A highly adaptable team manager who held the crew together and made calm tactical decisions through a very difficult transition year."
+        },
+        {
+          "name": "Marco Piccinini",
+          "rating": 87,
+          "salary": 1,
+          "desc": "A commanding tactical figure who used his deep political savvy to keep Ferrari afloat during a mechanically grueling campaign."
+        },
+        {
+          "name": "Peter Collins",
+          "rating": 86,
+          "salary": 1,
+          "desc": "A clever strategist who orchestrated a brilliant tire-management plan that completely outsmarted the grid at the Mexican Grand Prix."
+        },
+        {
+          "name": "Teddy Mayer",
+          "rating": 85,
+          "salary": 1,
+          "desc": "A veteran executive who brought immense championship-winning poise to guide this new team's operational strategy from the pit wall."
+        },
+        {
+          "name": "Guy Ligier",
+          "rating": 82,
+          "salary": 1,
+          "desc": "A fiercely passionate team owner whose emotional, aggressive race calls extracted everything possible from his French machinery."
+        },
+        {
+          "name": "Jackie Oliver",
+          "rating": 78,
+          "salary": 1,
+          "desc": "A shrewd, realistic operator who constructed risk-averse strategies designed to capitalize on the mechanical failures of faster cars."
+        },
+        {
+          "name": "Giancarlo Minardi",
+          "rating": 77,
+          "salary": 1,
+          "desc": "A deeply beloved figure whose tactical gambles aimed to give his raw, young drivers the best shot at seeing the checkered flag."
+        },
+        {
+          "name": "Erich Zakowski",
+          "rating": 74,
+          "salary": 1,
+          "desc": "A dedicated team owner who micro-managed his pit wall to focus strictly on maximizing reliability and learning for his home-grown squad."
+        },
+        {
+          "name": "Enzo Osella",
+          "rating": 65,
+          "salary": 1,
+          "desc": "A courageous underdog who focused his minimal resources on making the grid and surviving the brutal mechanical attrition of the era."
+        }
+      ],
+      "cm": [
+        {
+          "name": "Joan Villadelprat",
+          "rating": 95,
+          "salary": 1,
+          "desc": "A world-class wrench who ensured Alain Prost’s McLaren cars were built with absolute mechanical perfection and surgical precision."
+        },
+        {
+          "name": "Alan Challis",
+          "rating": 94,
+          "salary": 1,
+          "desc": "Ran a highly disciplined garage capable of maintaining the complex Honda turbos at a flawless performance standard all year."
+        },
+        {
+          "name": "Charlie Whiting",
+          "rating": 93,
+          "salary": 1,
+          "desc": "A brilliant mechanical mind whose leadership in the Brabham garage ensured the radical, lay-down BMW engines were expertly installed."
+        },
+        {
+          "name": "Nigel Stepney",
+          "rating": 92,
+          "salary": 1,
+          "desc": "Ayrton Senna’s preferred mechanic whose intense work ethic kept the fragile Renault-powered Lotus operating at peak qualifying trim."
+        },
+        {
+          "name": "Valerio Riva",
+          "rating": 88,
+          "salary": 1,
+          "desc": "A passionate leader who held Maranello’s crew together under high pressure despite frequent, heartbreaking engine failures."
+        },
+        {
+          "name": "John Walton",
+          "rating": 86,
+          "salary": 1,
+          "desc": "Brought immense grit from the old Toleman squad to mold Benetton's fresh garage into a highly professional, race-winning unit."
+        },
+        {
+          "name": "Mick Cook",
+          "rating": 83,
+          "salary": 1,
+          "desc": "Maintained exceptional build quality on the brand-new Ford-powered cars, earning widespread respect across the paddock for his efficiency."
+        },
+        {
+          "name": "Jean-Pierre Diot",
+          "rating": 81,
+          "salary": 1,
+          "desc": "A loyal veteran who knew the ins and outs of French motorsport, ensuring the Ligier chassis was robust and well-prepared."
+        },
+        {
+          "name": "Roger Hill",
+          "rating": 80,
+          "salary": 1,
+          "desc": "An old-school mechanic who kept the Tyrrell garage organized and highly efficient despite working with a tiny workforce."
+        },
+        {
+          "name": "Greg Baker",
+          "rating": 78,
+          "salary": 1,
+          "desc": "A reliable midfield veteran who specialized in quick, structural repairs to ensure maximum running time during practice and qualifying."
+        },
+        {
+          "name": "Helmut Barth",
+          "rating": 73,
+          "salary": 1,
+          "desc": "A tireless technician who meticulously managed the unique demands of Zakspeed’s highly volatile, custom in-house turbo engine."
+        },
+        {
+          "name": "Paolo Dalla Rosa",
+          "rating": 71,
+          "salary": 1,
+          "desc": "Directed a young, passionate crew of mechanics who worked late into the night to overcome the teething issues of a new chassis."
+        },
+        {
+          "name": "Felice Noe",
+          "rating": 66,
+          "salary": 1,
+          "desc": "A true survivor of the pit lane who masterfully fabricated parts out of nothing to ensure his cars simply made the race."
+        }
+      ],
+      "pcc": [
+        {
+          "name": "Neil Trundle",
+          "rating": 94,
+          "salary": 1,
+          "desc": "Ron Dennis’s trusted right-hand man who brought a legendary standard of synchronization and calm to the high-stakes McLaren pit stops."
+        },
+        {
+          "name": "Bob McMurray",
+          "rating": 93,
+          "salary": 1,
+          "desc": "Drilled the Williams crew to execute lightning-fast tire swaps that proved critical during the tight championship battles."
+        },
+        {
+          "name": "Bob Dance",
+          "rating": 91,
+          "salary": 1,
+          "desc": "A revered Lotus icon whose steady composure calmed the crew during high-pressure stops for a charging Ayrton Senna."
+        },
+        {
+          "name": "David Sims",
+          "rating": 90,
+          "salary": 1,
+          "desc": "A legendary figure who ran flawless pit lanes back when Brabham was pioneering the art of the modern tactical fuel stop."
+        },
+        {
+          "name": "Pietro Corradini",
+          "rating": 89,
+          "salary": 1,
+          "desc": "Infused the Scuderia pit crew with immense Italian passion, demanding rapid, coordinated physical execution under immense media scrutiny."
+        },
+        {
+          "name": "Steve Matchett",
+          "rating": 85,
+          "salary": 1,
+          "desc": "A sharp, fast-learning technician who brought a modern, analytical approach to crew execution on the pit lane."
+        },
+        {
+          "name": "Daniel Champion",
+          "rating": 82,
+          "salary": 1,
+          "desc": "Kept the French crew perfectly focused and disciplined during chaotic, rain-threatened pit stops throughout the 1986 season."
+        },
+        {
+          "name": "Frank Coppuck",
+          "rating": 81,
+          "salary": 1,
+          "desc": "Implemented slick, American-inspired drill routines to ensure the new team's pit stops were competitive from day one."
+        },
+        {
+          "name": "Simon Morley",
+          "rating": 79,
+          "salary": 1,
+          "desc": "Compensated for a lack of automated equipment with highly coordinated, muscle-memory teamwork that punched well above its weight."
+        },
+        {
+          "name": "James Robinson",
+          "rating": 77,
+          "salary": 1,
+          "desc": "Focused heavily on safe, error-free wheel changes to avoid throwing away hard-earned midfield positions."
+        },
+        {
+          "name": "Heinz-Jürgen Schorle",
+          "rating": 74,
+          "salary": 1,
+          "desc": "Led a small but incredibly patriotic German crew that took immense pride in clean, steady pit lane execution."
+        },
+        {
+          "name": "Bruno Garagnani",
+          "rating": 72,
+          "salary": 1,
+          "desc": "Managed a volatile but enthusiastic group, prioritizing structural safety and clear communication over raw speed."
+        },
+        {
+          "name": "Stefano Osella",
+          "rating": 65,
+          "salary": 1,
+          "desc": "Bravely directed a skeleton crew under immense stress, ensuring that basic tire swaps were completed safely on a shoestring budget."
         }
       ]
     },
