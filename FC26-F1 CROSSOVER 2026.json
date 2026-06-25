@@ -8376,8 +8376,8 @@
       "maxCustomers": 4,
       "annualCost": 15,
       "worksTeams": [
-        "custom",
-        "custom4"
+        "custom4",
+        "custom"
       ],
       "color": "#17548C"
     },
