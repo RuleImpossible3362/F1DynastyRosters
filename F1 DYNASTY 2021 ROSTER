@@ -4878,7 +4878,7 @@
       "ersRating": 92,
       "reliability": 80,
       "devRate": 8,
-      "maxCustomers": 4,
+      "maxCustomers": 3,
       "annualCost": 15,
       "worksTeams": [
         "ferrari"
@@ -4910,7 +4910,7 @@
       "ersRating": 86,
       "reliability": 75,
       "devRate": 2,
-      "maxCustomers": 2,
+      "maxCustomers": 1,
       "annualCost": 15,
       "worksTeams": [
         "alpine"
