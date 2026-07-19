@@ -76,7 +76,8 @@
           "value": 8,
           "type": "Associate"
         }
-      ]
+      ],
+      "team.juniorTeamId": "racingbulls"
     },
     {
       "id": "ferrari",
@@ -3826,7 +3827,8 @@
           "contract": 1,
           "feederContract": 0,
           "series": "F2",
-          "number": 30
+          "number": 30,
+          "driver.academyTeamId": "redbull"
         },
         {
           "name": "Arvid Lindblad",
@@ -3846,7 +3848,8 @@
           "contract": 1,
           "feederContract": 0,
           "series": "F2",
-          "number": 41
+          "number": 41,
+          "driver.academyTeamId": "redbull"
         }
       ],
       "haas": [
@@ -3888,7 +3891,8 @@
           "contract": 1,
           "feederContract": 0,
           "series": "F2",
-          "number": 87
+          "number": 87,
+          "driver.academyTeamId": "ferrari"
         }
       ],
       "audi": [
@@ -4287,7 +4291,8 @@
         "contract": 1,
         "feederContract": 0,
         "series": "F2",
-        "number": 90
+        "number": 90,
+        "driver.academyTeamId": "redbull"
       },
       {
         "name": "Nikola Tsolov",
@@ -4306,7 +4311,8 @@
         "salary": 1,
         "contract": 2,
         "feederContract": 0,
-        "series": "F2"
+        "series": "F2",
+        "driver.academyTeamId": "redbull"
       }
     ],
     "haas": [
@@ -4492,7 +4498,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 1,
-      "series": "WEC"
+      "series": "WEC",
+      "driver.academyTeamId": "mercedes"
     },
     {
       "name": "Nyck de Vries",
@@ -4512,7 +4519,8 @@
       "contract": 1,
       "feederContract": 0,
       "series": "WEC",
-      "number": 21
+      "number": 21,
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Antonio Fuoco",
@@ -4531,7 +4539,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "WEC"
+      "series": "WEC",
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Richard Verschoor",
@@ -4550,7 +4559,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 2,
-      "series": "WEC"
+      "series": "WEC",
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Pietro Fittipaldi",
@@ -4569,7 +4579,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "IndyCar"
+      "series": "IndyCar",
+      "driver.academyTeamId": "cadillac"
     },
     {
       "name": "Arthur Leclerc",
@@ -4588,7 +4599,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 3,
-      "series": "WEC"
+      "series": "WEC",
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Simon Pagenaud",
@@ -4607,7 +4619,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "IndyCar"
+      "series": "IndyCar",
+      "driver.academyTeamId": "cadillac"
     },
     {
       "name": "Oliver Turvey",
@@ -4626,7 +4639,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "FE"
+      "series": "FE",
+      "driver.academyTeamId": "williams"
     },
     {
       "name": "Neel Jani",
@@ -4645,7 +4659,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "WEC"
+      "series": "WEC",
+      "driver.academyTeamId": "audi"
     },
     {
       "name": "Charlie Eastwood",
@@ -4664,7 +4679,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 1,
-      "series": "WEC"
+      "series": "WEC",
+      "driver.academyTeamId": "cadillac"
     },
     {
       "name": "Ralph Boschung",
@@ -4683,7 +4699,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "F2"
+      "series": "F2",
+      "driver.academyTeamId": "audi"
     },
     {
       "name": "Cian Shields",
@@ -4702,7 +4719,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "F2"
+      "series": "F2",
+      "driver.academyTeamId": "cadillac"
     }
   ],
   "namedProspects": [
@@ -4742,7 +4760,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "F2"
+      "series": "F2",
+      "driver.academyTeamId": "alpine"
     },
     {
       "name": "Rafael Câmara",
@@ -4761,7 +4780,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 3,
-      "series": "F2"
+      "series": "F2",
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Grégoire Saucy",
@@ -4780,7 +4800,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 1,
-      "series": "WEC"
+      "series": "WEC",
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Mari Boya",
@@ -4799,7 +4820,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 3,
-      "series": "F2"
+      "series": "F2",
+      "driver.academyTeamId": "aston"
     },
     {
       "name": "Tuukka Taponen",
@@ -4818,7 +4840,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "F3"
+      "series": "F3",
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Alessandro Giusti",
@@ -4837,7 +4860,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "F3"
+      "series": "F3",
+      "driver.academyTeamId": "williams"
     },
     {
       "name": "Matteo De Palo",
@@ -4856,7 +4880,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "F3"
+      "series": "F3",
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Mattia Colnaghi",
@@ -4875,7 +4900,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "F3"
+      "series": "F3",
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Rashid Al Dhaheri",
@@ -4894,7 +4920,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "mercedes"
     },
     {
       "name": "Doriane Pin",
@@ -4932,7 +4959,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 3,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "alpine"
     },
     {
       "name": "Maya Weug",
@@ -4951,7 +4979,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 3,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Kean Nakamura-Berta",
@@ -4970,7 +4999,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "williams"
     },
     {
       "name": "Enzo Tarnvanichkul",
@@ -4989,7 +5019,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Ethan Jeff-Hall",
@@ -5008,7 +5039,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "mercedes"
     },
     {
       "name": "Kabir Anurag",
@@ -5027,7 +5059,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 3,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "alpine"
     },
     {
       "name": "Emma Felbermayr",
@@ -5046,7 +5079,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "audi"
     },
     {
       "name": "Ella Lloyd",
@@ -5065,7 +5099,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 3,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Oleksandr Bondarev",
@@ -5084,7 +5119,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 6,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "williams"
     },
     {
       "name": "Alisha Palmowski",
@@ -5103,7 +5139,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 3,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Payton Westcott",
@@ -5122,7 +5159,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "mercedes"
     },
     {
       "name": "Nina Gademan",
@@ -5141,7 +5179,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 2,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "alpine"
     },
     {
       "name": "Rafaela Ferreira",
@@ -5160,7 +5199,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 3,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Mathilda Paatz",
@@ -5179,7 +5219,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "aston"
     },
     {
       "name": "Zhenrui Chi",
@@ -5198,7 +5239,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "aston"
     },
     {
       "name": "Jade Jacquet",
@@ -5217,7 +5259,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "williams"
     },
     {
       "name": "Kaylee Countryman",
@@ -5236,7 +5279,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 6,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "haas"
     },
     {
       "name": "Ella Stevens",
@@ -5255,7 +5299,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 4,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Alba Hurup Larsen",
@@ -5274,7 +5319,8 @@
       "salary": 1,
       "contract": 2,
       "feederContract": 5,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Dries Van Langendonck",
@@ -5293,7 +5339,8 @@
       "salary": 1,
       "contract": 3,
       "feederContract": 7,
-      "series": "Regional Formulas"
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Luna Fluxà",
@@ -5312,7 +5359,8 @@
       "salary": 1,
       "contract": 3,
       "feederContract": 6,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "mercedes"
     },
     {
       "name": "Chiara Bättig",
@@ -5331,7 +5379,8 @@
       "salary": 1,
       "contract": 3,
       "feederContract": 6,
-      "series": "F1 Academy"
+      "series": "F1 Academy",
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Noel León",
@@ -5749,7 +5798,8 @@
       "salary": 1,
       "contract": 1,
       "feederContract": 4,
-      "series": "F3"
+      "series": "F3",
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Enzo Deligny",
@@ -6073,6 +6123,26 @@
       "contract": 1,
       "feederContract": 2,
       "series": "F3"
+    },
+    {
+      "name": "Andy Consani",
+      "nationality": "French",
+      "trait": "aggressive",
+      "age": 16,
+      "rating": 56,
+      "potential": 84,
+      "qualifying": 55,
+      "racePace": 56,
+      "consistency": 54,
+      "wet": 55,
+      "aggression": 75,
+      "marketability": 68,
+      "morale": 85,
+      "salary": 1,
+      "contract": 3,
+      "feederContract": 5,
+      "series": "Regional Formulas",
+      "driver.academyTeamId": "mercedes"
     }
   ],
   "prospectClasses": [
