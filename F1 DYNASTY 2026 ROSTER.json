@@ -55,29 +55,189 @@
           "contract": 2
         }
       ],
+      "juniorTeamId": "racingbulls",
+      "staffOverrides": {
+        "td": {
+          "name": "Pierre Waché",
+          "rating": 94,
+          "salary": 5,
+          "contract": 4,
+          "age": 51,
+          "potential": 95,
+          "abilities": {
+            "aeroDesign": 96,
+            "mechanicalDesign": 92,
+            "resourceEfficiency": 91,
+            "innovation": 94
+          }
+        },
+        "rs": {
+          "name": "Hannah Schmitz",
+          "rating": 96,
+          "salary": 3,
+          "contract": 4,
+          "age": 39,
+          "potential": 97,
+          "abilities": {
+            "strategy": 98,
+            "weatherReading": 95,
+            "tyreReading": 96,
+            "safetyCar": 96
+          }
+        },
+        "cm": {
+          "name": "Phil Turner",
+          "rating": 94,
+          "salary": 2,
+          "contract": 3,
+          "age": 46,
+          "potential": 94,
+          "abilities": {
+            "reliability": 94,
+            "setup": 93,
+            "repairSpeed": 96,
+            "development": 93
+          }
+        },
+        "pcc": {
+          "name": "Chris Gent",
+          "rating": 97,
+          "salary": 2,
+          "contract": 3,
+          "age": 42,
+          "potential": 97,
+          "abilities": {
+            "pitSpeed": 98,
+            "consistency": 97,
+            "training": 96,
+            "pressure": 96
+          }
+        },
+        "re1": {
+          "name": "Gianpiero Lambiase",
+          "rating": 97,
+          "salary": 4,
+          "contract": 4,
+          "age": 45,
+          "potential": 97,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 98,
+            "strategyPace": 96,
+            "pitTiming": 97,
+            "oneLapPace": 98,
+            "ersUsage": 96
+          }
+        },
+        "re2": {
+          "name": "Richard Wood",
+          "rating": 85,
+          "salary": 2,
+          "contract": 2,
+          "age": 37,
+          "potential": 90,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 87,
+            "strategyPace": 84,
+            "pitTiming": 86,
+            "oneLapPace": 85,
+            "ersUsage": 84
+          }
+        },
+        "jre": {
+          "name": "Hugh Bird",
+          "rating": 83,
+          "salary": 1,
+          "contract": 2,
+          "age": 38,
+          "potential": 87,
+          "abilities": {
+            "morale": 85,
+            "strategyPace": 82,
+            "pitTiming": 84,
+            "oneLapPace": 83,
+            "ersUsage": 82
+          }
+        }
+      },
       "sponsors": [
         {
-          "name": "Red Bull Energy",
-          "value": 45,
+          "name": "Oracle",
+          "value": 60,
           "type": "Title"
         },
         {
-          "name": "Oracle",
-          "value": 30,
-          "type": "Partner"
+          "name": "Red Bull",
+          "value": 35,
+          "type": "Primary"
         },
         {
-          "name": "ATT",
+          "name": "TAG Heuer",
+          "value": 15,
+          "type": "Primary"
+        },
+        {
+          "name": "Indeed",
           "value": 12,
           "type": "Partner"
         },
         {
-          "name": "Bybit",
+          "name": "Heineken 0,0",
+          "value": 10,
+          "type": "Secondary"
+        },
+        {
+          "name": "Hard Rock International",
+          "value": 8,
+          "type": "Secondary"
+        },
+        {
+          "name": "AvaTrade",
+          "value": 8,
+          "type": "Secondary"
+        },
+        {
+          "name": "Ford",
+          "value": 30,
+          "type": "Technical"
+        },
+        {
+          "name": "Mobil 1",
+          "value": 12,
+          "type": "Technical"
+        },
+        {
+          "name": "Siemens",
+          "value": 5,
+          "type": "Technical"
+        },
+        {
+          "name": "Castore",
           "value": 8,
           "type": "Associate"
+        },
+        {
+          "name": "ROKT",
+          "value": 7,
+          "type": "Associate"
+        },
+        {
+          "name": "Gate.io",
+          "value": 6,
+          "type": "Associate"
+        },
+        {
+          "name": "AT&T",
+          "value": 5,
+          "type": "Associate"
+        },
+        {
+          "name": "Rauch",
+          "value": 4,
+          "type": "Associate"
         }
-      ],
-      "juniorTeamId": "racingbulls"
+      ]
     },
     {
       "id": "ferrari",
@@ -134,25 +294,185 @@
           "contract": 2
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "Loïc Serra",
+          "rating": 91,
+          "salary": 5,
+          "contract": 3,
+          "age": 53,
+          "potential": 93,
+          "abilities": {
+            "aeroDesign": 89,
+            "mechanicalDesign": 93,
+            "resourceEfficiency": 88,
+            "innovation": 92
+          }
+        },
+        "rs": {
+          "name": "Ravin Jain",
+          "rating": 87,
+          "salary": 2,
+          "contract": 2,
+          "age": 30,
+          "potential": 92,
+          "abilities": {
+            "strategy": 88,
+            "weatherReading": 86,
+            "tyreReading": 87,
+            "safetyCar": 86
+          }
+        },
+        "cm": {
+          "name": "Diego Ioverno",
+          "rating": 92,
+          "salary": 2,
+          "contract": 3,
+          "age": 51,
+          "potential": 92,
+          "abilities": {
+            "reliability": 91,
+            "setup": 93,
+            "repairSpeed": 92,
+            "development": 91
+          }
+        },
+        "pcc": {
+          "name": "Jonathan Giacobazzi",
+          "rating": 92,
+          "salary": 1,
+          "contract": 3,
+          "age": 43,
+          "potential": 93,
+          "abilities": {
+            "pitSpeed": 95,
+            "consistency": 90,
+            "training": 92,
+            "pressure": 91
+          }
+        },
+        "re1": {
+          "name": "Bryan Bozzi",
+          "rating": 90,
+          "salary": 2,
+          "contract": 3,
+          "age": 36,
+          "potential": 94,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 92,
+            "strategyPace": 90,
+            "pitTiming": 89,
+            "oneLapPace": 91,
+            "ersUsage": 89
+          }
+        },
+        "re2": {
+          "name": "Carlo Santi",
+          "rating": 91,
+          "salary": 3,
+          "contract": 2,
+          "age": 44,
+          "potential": 92,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 93,
+            "strategyPace": 91,
+            "pitTiming": 90,
+            "oneLapPace": 90,
+            "ersUsage": 91
+          }
+        },
+        "jre": {
+          "name": "Jock Clear",
+          "rating": 88,
+          "salary": 2,
+          "contract": 2,
+          "age": 61,
+          "potential": 88,
+          "abilities": {
+            "morale": 89,
+            "strategyPace": 87,
+            "pitTiming": 88,
+            "oneLapPace": 86,
+            "ersUsage": 87
+          }
+        }
+      },
       "sponsors": [
         {
           "name": "HP",
-          "value": 40,
+          "value": 60,
           "type": "Title"
         },
         {
           "name": "Shell",
-          "value": 35,
+          "value": 40,
+          "type": "Primary"
+        },
+        {
+          "name": "UniCredit",
+          "value": 20,
+          "type": "Primary"
+        },
+        {
+          "name": "Peroni Nastro Azzurro 0.0%",
+          "value": 12,
           "type": "Partner"
         },
         {
-          "name": "Santander",
-          "value": 18,
-          "type": "Partner"
+          "name": "IBM",
+          "value": 12,
+          "type": "Secondary"
+        },
+        {
+          "name": "CEVA Logistics",
+          "value": 10,
+          "type": "Secondary"
         },
         {
           "name": "Ray-Ban",
-          "value": 6,
+          "value": 10,
+          "type": "Secondary"
+        },
+        {
+          "name": "Puma",
+          "value": 10,
+          "type": "Technical"
+        },
+        {
+          "name": "Brembo",
+          "value": 4,
+          "type": "Technical"
+        },
+        {
+          "name": "NGK Spark Plugs",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Richard Mille",
+          "value": 8,
+          "type": "Associate"
+        },
+        {
+          "name": "Genesys",
+          "value": 8,
+          "type": "Associate"
+        },
+        {
+          "name": "Bitdefender",
+          "value": 5,
+          "type": "Associate"
+        },
+        {
+          "name": "DXC Technology",
+          "value": 5,
+          "type": "Associate"
+        },
+        {
+          "name": "Chivas Regal",
+          "value": 4,
           "type": "Associate"
         }
       ]
@@ -212,25 +532,185 @@
           "contract": 3
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "James Allison",
+          "rating": 95,
+          "salary": 6,
+          "contract": 4,
+          "age": 57,
+          "potential": 95,
+          "abilities": {
+            "aeroDesign": 93,
+            "mechanicalDesign": 96,
+            "resourceEfficiency": 92,
+            "innovation": 97
+          }
+        },
+        "rs": {
+          "name": "Rosie Wait",
+          "rating": 90,
+          "salary": 2,
+          "contract": 3,
+          "age": 36,
+          "potential": 94,
+          "abilities": {
+            "strategy": 91,
+            "weatherReading": 92,
+            "tyreReading": 89,
+            "safetyCar": 88
+          }
+        },
+        "cm": {
+          "name": "Matt Deane",
+          "rating": 91,
+          "salary": 1,
+          "contract": 3,
+          "age": 45,
+          "potential": 92,
+          "abilities": {
+            "reliability": 93,
+            "setup": 90,
+            "repairSpeed": 90,
+            "development": 91
+          }
+        },
+        "pcc": {
+          "name": "Stuart Green",
+          "rating": 88,
+          "salary": 1,
+          "contract": 2,
+          "age": 39,
+          "potential": 90,
+          "abilities": {
+            "pitSpeed": 87,
+            "consistency": 91,
+            "training": 89,
+            "pressure": 86
+          }
+        },
+        "re1": {
+          "name": "Marcus Dudley",
+          "rating": 89,
+          "salary": 2,
+          "contract": 3,
+          "age": 41,
+          "potential": 92,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 90,
+            "strategyPace": 89,
+            "pitTiming": 88,
+            "oneLapPace": 90,
+            "ersUsage": 89
+          }
+        },
+        "re2": {
+          "name": "Peter Bonnington",
+          "rating": 96,
+          "salary": 4,
+          "contract": 3,
+          "age": 51,
+          "potential": 96,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 97,
+            "strategyPace": 95,
+            "pitTiming": 94,
+            "oneLapPace": 96,
+            "ersUsage": 95
+          }
+        },
+        "jre": {
+          "name": "Dom Riefstahl",
+          "rating": 82,
+          "salary": 1,
+          "contract": 2,
+          "age": 35,
+          "potential": 90,
+          "abilities": {
+            "morale": 85,
+            "strategyPace": 83,
+            "pitTiming": 82,
+            "oneLapPace": 81,
+            "ersUsage": 83
+          }
+        }
+      },
       "sponsors": [
         {
           "name": "Petronas",
-          "value": 42,
+          "value": 75,
           "type": "Title"
         },
         {
           "name": "INEOS",
-          "value": 28,
-          "type": "Partner"
+          "value": 45,
+          "type": "Primary"
         },
         {
-          "name": "Google",
+          "name": "CrowdStrike",
           "value": 20,
+          "type": "Primary"
+        },
+        {
+          "name": "Microsoft",
+          "value": 18,
           "type": "Partner"
         },
         {
-          "name": "Tommy Hilfiger",
+          "name": "UBS",
+          "value": 15,
+          "type": "Secondary"
+        },
+        {
+          "name": "TeamViewer",
+          "value": 14,
+          "type": "Secondary"
+        },
+        {
+          "name": "WhatsApp",
+          "value": 10,
+          "type": "Secondary"
+        },
+        {
+          "name": "Snapdragon",
+          "value": 12,
+          "type": "Technical"
+        },
+        {
+          "name": "Hewlett Packard Enterprise",
+          "value": 8,
+          "type": "Technical"
+        },
+        {
+          "name": "Solera",
+          "value": 6,
+          "type": "Technical"
+        },
+        {
+          "name": "Adidas",
+          "value": 10,
+          "type": "Associate"
+        },
+        {
+          "name": "IWC Schaffhausen",
+          "value": 8,
+          "type": "Associate"
+        },
+        {
+          "name": "SAP",
           "value": 7,
+          "type": "Associate"
+        },
+        {
+          "name": "Akkodis",
+          "value": 5,
+          "type": "Associate"
+        },
+        {
+          "name": "G42",
+          "value": 5,
           "type": "Associate"
         }
       ]
@@ -290,25 +770,185 @@
           "contract": 3
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "Peter Prodromou",
+          "rating": 92,
+          "salary": 5,
+          "contract": 3,
+          "age": 56,
+          "potential": 93,
+          "abilities": {
+            "aeroDesign": 95,
+            "mechanicalDesign": 88,
+            "resourceEfficiency": 90,
+            "innovation": 93
+          }
+        },
+        "rs": {
+          "name": "Randeep Singh",
+          "rating": 91,
+          "salary": 2,
+          "contract": 3,
+          "age": 42,
+          "potential": 94,
+          "abilities": {
+            "strategy": 92,
+            "weatherReading": 89,
+            "tyreReading": 93,
+            "safetyCar": 90
+          }
+        },
+        "cm": {
+          "name": "Karl Lammenranta",
+          "rating": 89,
+          "salary": 1,
+          "contract": 2,
+          "age": 48,
+          "potential": 90,
+          "abilities": {
+            "reliability": 90,
+            "setup": 88,
+            "repairSpeed": 91,
+            "development": 87
+          }
+        },
+        "pcc": {
+          "name": "James Robinson",
+          "rating": 90,
+          "salary": 1,
+          "contract": 2,
+          "age": 41,
+          "potential": 92,
+          "abilities": {
+            "pitSpeed": 93,
+            "consistency": 89,
+            "training": 90,
+            "pressure": 88
+          }
+        },
+        "re1": {
+          "name": "Will Joseph",
+          "rating": 93,
+          "salary": 3,
+          "contract": 4,
+          "age": 45,
+          "potential": 95,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 95,
+            "strategyPace": 92,
+            "pitTiming": 91,
+            "oneLapPace": 94,
+            "ersUsage": 92
+          }
+        },
+        "re2": {
+          "name": "Tom Stallard",
+          "rating": 91,
+          "salary": 3,
+          "contract": 3,
+          "age": 47,
+          "potential": 92,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 92,
+            "strategyPace": 90,
+            "pitTiming": 90,
+            "oneLapPace": 91,
+            "ersUsage": 91
+          }
+        },
+        "jre": {
+          "name": "Andrew Jarvis",
+          "rating": 80,
+          "salary": 1,
+          "contract": 2,
+          "age": 34,
+          "potential": 89,
+          "abilities": {
+            "morale": 84,
+            "strategyPace": 81,
+            "pitTiming": 82,
+            "oneLapPace": 80,
+            "ersUsage": 79
+          }
+        }
+      },
       "sponsors": [
         {
-          "name": "Gulf",
-          "value": 20,
+          "name": "MasterCard",
+          "value": 55,
           "type": "Title"
         },
         {
-          "name": "Dell",
-          "value": 18,
+          "name": "OKX",
+          "value": 35,
+          "type": "Primary"
+        },
+        {
+          "name": "Google",
+          "value": 30,
+          "type": "Primary"
+        },
+        {
+          "name": "A Better Tomorrow",
+          "value": 20,
           "type": "Partner"
         },
         {
-          "name": "Splunk",
+          "name": "DP World",
           "value": 15,
-          "type": "Partner"
+          "type": "Secondary"
+        },
+        {
+          "name": "Cisco",
+          "value": 12,
+          "type": "Secondary"
+        },
+        {
+          "name": "Monster Energy",
+          "value": 10,
+          "type": "Secondary"
+        },
+        {
+          "name": "Dell Technologies",
+          "value": 10,
+          "type": "Technical"
+        },
+        {
+          "name": "Global",
+          "value": 6,
+          "type": "Technical"
+        },
+        {
+          "name": "Alteryx",
+          "value": 5,
+          "type": "Technical"
+        },
+        {
+          "name": "Richard Mille",
+          "value": 8,
+          "type": "Associate"
+        },
+        {
+          "name": "Jack Daniel’s",
+          "value": 5,
+          "type": "Associate"
         },
         {
           "name": "Hilton",
-          "value": 9,
+          "value": 4,
+          "type": "Associate"
+        },
+        {
+          "name": "Medallia",
+          "value": 4,
+          "type": "Associate"
+        },
+        {
+          "name": "TUMI",
+          "value": 3,
           "type": "Associate"
         }
       ]
@@ -368,25 +1008,185 @@
           "contract": 2
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "Adrian Newey",
+          "rating": 99,
+          "salary": 12,
+          "contract": 5,
+          "age": 67,
+          "potential": 99,
+          "abilities": {
+            "aeroDesign": 99,
+            "mechanicalDesign": 97,
+            "resourceEfficiency": 94,
+            "innovation": 99
+          }
+        },
+        "rs": {
+          "name": "Andy Stevenson",
+          "rating": 86,
+          "salary": 2,
+          "contract": 2,
+          "age": 57,
+          "potential": 87,
+          "abilities": {
+            "strategy": 87,
+            "weatherReading": 86,
+            "tyreReading": 85,
+            "safetyCar": 86
+          }
+        },
+        "cm": {
+          "name": "Mikey Brown",
+          "rating": 87,
+          "salary": 1,
+          "contract": 2,
+          "age": 42,
+          "potential": 89,
+          "abilities": {
+            "reliability": 88,
+            "setup": 86,
+            "repairSpeed": 88,
+            "development": 86
+          }
+        },
+        "pcc": {
+          "name": "Matt Scott",
+          "rating": 85,
+          "salary": 1,
+          "contract": 2,
+          "age": 38,
+          "potential": 87,
+          "abilities": {
+            "pitSpeed": 86,
+            "consistency": 85,
+            "training": 86,
+            "pressure": 84
+          }
+        },
+        "re1": {
+          "name": "Andrew Vizard",
+          "rating": 88,
+          "salary": 2,
+          "contract": 3,
+          "age": 40,
+          "potential": 91,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 90,
+            "strategyPace": 88,
+            "pitTiming": 87,
+            "oneLapPace": 88,
+            "ersUsage": 88
+          }
+        },
+        "re2": {
+          "name": "Gary Gannon",
+          "rating": 84,
+          "salary": 2,
+          "contract": 2,
+          "age": 48,
+          "potential": 85,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 84,
+            "strategyPace": 83,
+            "pitTiming": 85,
+            "oneLapPace": 83,
+            "ersUsage": 84
+          }
+        },
+        "jre": {
+          "name": "Stephen Glass",
+          "rating": 78,
+          "salary": 1,
+          "contract": 2,
+          "age": 32,
+          "potential": 86,
+          "abilities": {
+            "morale": 80,
+            "strategyPace": 78,
+            "pitTiming": 79,
+            "oneLapPace": 77,
+            "ersUsage": 78
+          }
+        }
+      },
       "sponsors": [
         {
           "name": "Aramco",
-          "value": 30,
+          "value": 75,
           "type": "Title"
         },
         {
+          "name": "CoreWeave",
+          "value": 25,
+          "type": "Primary"
+        },
+        {
           "name": "Cognizant",
-          "value": 14,
+          "value": 20,
+          "type": "Primary"
+        },
+        {
+          "name": "Valvoline",
+          "value": 12,
           "type": "Partner"
         },
         {
-          "name": "Peroni",
-          "value": 8,
-          "type": "Partner"
+          "name": "JCB",
+          "value": 10,
+          "type": "Secondary"
+        },
+        {
+          "name": "ServiceNow",
+          "value": 9,
+          "type": "Secondary"
         },
         {
           "name": "Boss",
+          "value": 8,
+          "type": "Secondary"
+        },
+        {
+          "name": "Honda",
+          "value": 35,
+          "type": "Technical"
+        },
+        {
+          "name": "NetApp",
+          "value": 5,
+          "type": "Technical"
+        },
+        {
+          "name": "Zscaler",
+          "value": 5,
+          "type": "Technical"
+        },
+        {
+          "name": "Glenfiddich",
+          "value": 7,
+          "type": "Associate"
+        },
+        {
+          "name": "UKG",
+          "value": 6,
+          "type": "Associate"
+        },
+        {
+          "name": "Breitling",
           "value": 4,
+          "type": "Associate"
+        },
+        {
+          "name": "Ma’aden",
+          "value": 4,
+          "type": "Associate"
+        },
+        {
+          "name": "Coinbase",
+          "value": 3,
           "type": "Associate"
         }
       ]
@@ -446,25 +1246,185 @@
           "contract": 2
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "David Sanchez",
+          "rating": 87,
+          "salary": 3,
+          "contract": 3,
+          "age": 45,
+          "potential": 90,
+          "abilities": {
+            "aeroDesign": 88,
+            "mechanicalDesign": 86,
+            "resourceEfficiency": 85,
+            "innovation": 88
+          }
+        },
+        "rs": {
+          "name": "Matthieu Dubois",
+          "rating": 83,
+          "salary": 1,
+          "contract": 2,
+          "age": 43,
+          "potential": 85,
+          "abilities": {
+            "strategy": 84,
+            "weatherReading": 82,
+            "tyreReading": 83,
+            "safetyCar": 82
+          }
+        },
+        "cm": {
+          "name": "Jason Milligan",
+          "rating": 84,
+          "salary": 1,
+          "contract": 2,
+          "age": 44,
+          "potential": 85,
+          "abilities": {
+            "reliability": 85,
+            "setup": 84,
+            "repairSpeed": 83,
+            "development": 84
+          }
+        },
+        "pcc": {
+          "name": "Pierre Lorin",
+          "rating": 82,
+          "salary": 1,
+          "contract": 2,
+          "age": 37,
+          "potential": 84,
+          "abilities": {
+            "pitSpeed": 81,
+            "consistency": 83,
+            "training": 82,
+            "pressure": 81
+          }
+        },
+        "re1": {
+          "name": "Josh Peckett",
+          "rating": 86,
+          "salary": 2,
+          "contract": 3,
+          "age": 39,
+          "potential": 89,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 87,
+            "strategyPace": 85,
+            "pitTiming": 86,
+            "oneLapPace": 86,
+            "ersUsage": 85
+          }
+        },
+        "re2": {
+          "name": "Stuart Barlow",
+          "rating": 82,
+          "salary": 1,
+          "contract": 2,
+          "age": 35,
+          "potential": 88,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 84,
+            "strategyPace": 81,
+            "pitTiming": 82,
+            "oneLapPace": 83,
+            "ersUsage": 81
+          }
+        },
+        "jre": {
+          "name": "Karel Loos",
+          "rating": 81,
+          "salary": 1,
+          "contract": 2,
+          "age": 42,
+          "potential": 83,
+          "abilities": {
+            "morale": 82,
+            "strategyPace": 80,
+            "pitTiming": 81,
+            "oneLapPace": 81,
+            "ersUsage": 80
+          }
+        }
+      },
       "sponsors": [
         {
           "name": "BWT",
-          "value": 18,
+          "value": 35,
           "type": "Title"
         },
         {
-          "name": "Renault",
+          "name": "Eni",
+          "value": 15,
+          "type": "Primary"
+        },
+        {
+          "name": "MSC Cruises",
           "value": 12,
+          "type": "Primary"
+        },
+        {
+          "name": "Mobilize Financial Services",
+          "value": 10,
           "type": "Partner"
         },
         {
-          "name": "Rio Tinto",
+          "name": "Qatar Airways",
+          "value": 8,
+          "type": "Secondary"
+        },
+        {
+          "name": "H. Moser & Cie.",
           "value": 7,
-          "type": "Partner"
+          "type": "Secondary"
         },
         {
-          "name": "Castrol",
+          "name": "Modo Casino",
+          "value": 5,
+          "type": "Secondary"
+        },
+        {
+          "name": "Castore",
+          "value": 5,
+          "type": "Technical"
+        },
+        {
+          "name": "3D Systems",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Matrix",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Oakberry",
           "value": 4,
+          "type": "Associate"
+        },
+        {
+          "name": "The Venetian Resort",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Eurodatacar",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Shamir",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "BusinessSolver",
+          "value": 1,
           "type": "Associate"
         }
       ]
@@ -524,25 +1484,185 @@
           "contract": 2
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "Pat Fry",
+          "rating": 89,
+          "salary": 4,
+          "contract": 3,
+          "age": 61,
+          "potential": 89,
+          "abilities": {
+            "aeroDesign": 88,
+            "mechanicalDesign": 91,
+            "resourceEfficiency": 89,
+            "innovation": 87
+          }
+        },
+        "rs": {
+          "name": "Sven Smeets",
+          "rating": 85,
+          "salary": 2,
+          "contract": 2,
+          "age": 53,
+          "potential": 86,
+          "abilities": {
+            "strategy": 86,
+            "weatherReading": 85,
+            "tyreReading": 84,
+            "safetyCar": 85
+          }
+        },
+        "cm": {
+          "name": "Mark Pattinson",
+          "rating": 86,
+          "salary": 1,
+          "contract": 2,
+          "age": 45,
+          "potential": 87,
+          "abilities": {
+            "reliability": 87,
+            "setup": 85,
+            "repairSpeed": 86,
+            "development": 85
+          }
+        },
+        "pcc": {
+          "name": "Dave Robson Jr.",
+          "rating": 83,
+          "salary": 1,
+          "contract": 2,
+          "age": 38,
+          "potential": 85,
+          "abilities": {
+            "pitSpeed": 84,
+            "consistency": 83,
+            "training": 82,
+            "pressure": 82
+          }
+        },
+        "re1": {
+          "name": "Gaëtan Jago",
+          "rating": 87,
+          "salary": 2,
+          "contract": 3,
+          "age": 39,
+          "potential": 90,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 88,
+            "strategyPace": 86,
+            "pitTiming": 87,
+            "oneLapPace": 87,
+            "ersUsage": 86
+          }
+        },
+        "re2": {
+          "name": "James Urwin",
+          "rating": 88,
+          "salary": 2,
+          "contract": 3,
+          "age": 42,
+          "potential": 90,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 89,
+            "strategyPace": 87,
+            "pitTiming": 88,
+            "oneLapPace": 88,
+            "ersUsage": 87
+          }
+        },
+        "jre": {
+          "name": "Vivek Zhang",
+          "rating": 78,
+          "salary": 1,
+          "contract": 2,
+          "age": 31,
+          "potential": 86,
+          "abilities": {
+            "morale": 80,
+            "strategyPace": 77,
+            "pitTiming": 78,
+            "oneLapPace": 78,
+            "ersUsage": 77
+          }
+        }
+      },
       "sponsors": [
         {
           "name": "Atlassian",
-          "value": 15,
+          "value": 30,
           "type": "Title"
         },
         {
-          "name": "Duracell",
+          "name": "Komatsu",
+          "value": 18,
+          "type": "Primary"
+        },
+        {
+          "name": "Barclays",
+          "value": 16,
+          "type": "Primary"
+        },
+        {
+          "name": "Kraken",
           "value": 10,
           "type": "Partner"
         },
         {
-          "name": "Kraken",
+          "name": "Gulf Oil",
           "value": 8,
-          "type": "Partner"
+          "type": "Secondary"
         },
         {
-          "name": "Rexona",
+          "name": "Duracell",
+          "value": 7,
+          "type": "Secondary"
+        },
+        {
+          "name": "Betway",
+          "value": 6,
+          "type": "Secondary"
+        },
+        {
+          "name": "Claude",
           "value": 4,
+          "type": "Technical"
+        },
+        {
+          "name": "VAST Data",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Pirelli",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Estrella Galicia 0,0",
+          "value": 3,
+          "type": "Associate"
+        },
+        {
+          "name": "Keeper Security",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "BNY",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Wilkinson Sword",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "New Era",
+          "value": 1,
           "type": "Associate"
         }
       ]
@@ -602,25 +1722,185 @@
           "contract": 2
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "Tim Goss",
+          "rating": 88,
+          "salary": 4,
+          "contract": 3,
+          "age": 62,
+          "potential": 88,
+          "abilities": {
+            "aeroDesign": 87,
+            "mechanicalDesign": 89,
+            "resourceEfficiency": 88,
+            "innovation": 86
+          }
+        },
+        "rs": {
+          "name": "Guillaume Dezoteux",
+          "rating": 84,
+          "salary": 1,
+          "contract": 2,
+          "age": 46,
+          "potential": 86,
+          "abilities": {
+            "strategy": 85,
+            "weatherReading": 84,
+            "tyreReading": 83,
+            "safetyCar": 84
+          }
+        },
+        "cm": {
+          "name": "Marco Perrone",
+          "rating": 85,
+          "salary": 1,
+          "contract": 2,
+          "age": 41,
+          "potential": 87,
+          "abilities": {
+            "reliability": 86,
+            "setup": 85,
+            "repairSpeed": 84,
+            "development": 85
+          }
+        },
+        "pcc": {
+          "name": "Massimo Branchini",
+          "rating": 84,
+          "salary": 1,
+          "contract": 2,
+          "age": 40,
+          "potential": 86,
+          "abilities": {
+            "pitSpeed": 85,
+            "consistency": 83,
+            "training": 84,
+            "pressure": 83
+          }
+        },
+        "re1": {
+          "name": "Alexandre Iliopoulos",
+          "rating": 83,
+          "salary": 1,
+          "contract": 2,
+          "age": 36,
+          "potential": 88,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 85,
+            "strategyPace": 82,
+            "pitTiming": 83,
+            "oneLapPace": 84,
+            "ersUsage": 82
+          }
+        },
+        "re2": {
+          "name": "Pierre Hamelin",
+          "rating": 85,
+          "salary": 2,
+          "contract": 2,
+          "age": 40,
+          "potential": 87,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 87,
+            "strategyPace": 84,
+            "pitTiming": 85,
+            "oneLapPace": 85,
+            "ersUsage": 84
+          }
+        },
+        "jre": {
+          "name": "Ernesto Desiderio",
+          "rating": 77,
+          "salary": 1,
+          "contract": 1,
+          "age": 31,
+          "potential": 85,
+          "abilities": {
+            "morale": 80,
+            "strategyPace": 76,
+            "pitTiming": 77,
+            "oneLapPace": 78,
+            "ersUsage": 76
+          }
+        }
+      },
       "sponsors": [
         {
           "name": "Visa",
-          "value": 12,
+          "value": 20,
           "type": "Title"
         },
         {
           "name": "CashApp",
-          "value": 10,
-          "type": "Partner"
-        },
-        {
-          "name": "Mastercard",
-          "value": 6,
-          "type": "Partner"
+          "value": 15,
+          "type": "Primary"
         },
         {
           "name": "Red Bull",
+          "value": 15,
+          "type": "Primary"
+        },
+        {
+          "name": "HUGO",
+          "value": 12,
+          "type": "Partner"
+        },
+        {
+          "name": "Tudor",
+          "value": 6,
+          "type": "Secondary"
+        },
+        {
+          "name": "Randstad",
+          "value": 5,
+          "type": "Secondary"
+        },
+        {
+          "name": "XMTrading",
+          "value": 5,
+          "type": "Secondary"
+        },
+        {
+          "name": "Ford",
+          "value": 15,
+          "type": "Technical"
+        },
+        {
+          "name": "Siemens",
           "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Dynatrace",
+          "value": 2,
+          "type": "Technical"
+        },
+        {
+          "name": "NEFT Vodka",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Barilla",
+          "value": 1,
+          "type": "Associate"
+        },
+        {
+          "name": "Riedel Communications",
+          "value": 1,
+          "type": "Associate"
+        },
+        {
+          "name": "Airtasker",
+          "value": 1,
+          "type": "Associate"
+        },
+        {
+          "name": "Roboze",
+          "value": 1,
           "type": "Associate"
         }
       ]
@@ -680,25 +1960,185 @@
           "contract": 2
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "Andrea De Zordo",
+          "rating": 84,
+          "salary": 3,
+          "contract": 2,
+          "age": 49,
+          "potential": 86,
+          "abilities": {
+            "aeroDesign": 85,
+            "mechanicalDesign": 83,
+            "resourceEfficiency": 86,
+            "innovation": 82
+          }
+        },
+        "rs": {
+          "name": "Mark Slade",
+          "rating": 85,
+          "salary": 2,
+          "contract": 2,
+          "age": 56,
+          "potential": 85,
+          "abilities": {
+            "strategy": 86,
+            "weatherReading": 84,
+            "tyreReading": 85,
+            "safetyCar": 84
+          }
+        },
+        "cm": {
+          "name": "Toby Brown",
+          "rating": 83,
+          "salary": 1,
+          "contract": 2,
+          "age": 39,
+          "potential": 85,
+          "abilities": {
+            "reliability": 84,
+            "setup": 83,
+            "repairSpeed": 82,
+            "development": 83
+          }
+        },
+        "pcc": {
+          "name": "Gary Anderson Jr.",
+          "rating": 81,
+          "salary": 1,
+          "contract": 2,
+          "age": 36,
+          "potential": 84,
+          "abilities": {
+            "pitSpeed": 82,
+            "consistency": 80,
+            "training": 81,
+            "pressure": 80
+          }
+        },
+        "re1": {
+          "name": "Laura Müller",
+          "rating": 85,
+          "salary": 2,
+          "contract": 3,
+          "age": 34,
+          "potential": 91,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 86,
+            "strategyPace": 84,
+            "pitTiming": 85,
+            "oneLapPace": 85,
+            "ersUsage": 84
+          }
+        },
+        "re2": {
+          "name": "Ronan OHare",
+          "rating": 84,
+          "salary": 1,
+          "contract": 2,
+          "age": 38,
+          "potential": 88,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 86,
+            "strategyPace": 83,
+            "pitTiming": 84,
+            "oneLapPace": 85,
+            "ersUsage": 83
+          }
+        },
+        "jre": {
+          "name": "Ed Regan",
+          "rating": 80,
+          "salary": 1,
+          "contract": 2,
+          "age": 41,
+          "potential": 82,
+          "abilities": {
+            "morale": 82,
+            "strategyPace": 79,
+            "pitTiming": 80,
+            "oneLapPace": 80,
+            "ersUsage": 79
+          }
+        }
+      },
       "sponsors": [
         {
-          "name": "MoneyGram",
-          "value": 14,
+          "name": "Toyota Gazoo Racing",
+          "value": 25,
           "type": "Title"
         },
         {
-          "name": "Ferrexpo",
+          "name": "Haas Automotive",
+          "value": 15,
+          "type": "Primary"
+        },
+        {
+          "name": "Play’n GO",
+          "value": 12,
+          "type": "Primary"
+        },
+        {
+          "name": "Zoomex",
           "value": 8,
           "type": "Partner"
         },
         {
-          "name": "Gulf",
-          "value": 6,
-          "type": "Partner"
+          "name": "Fix Network",
+          "value": 5,
+          "type": "Secondary"
         },
         {
-          "name": "Smartsheet",
+          "name": "Singha",
+          "value": 5,
+          "type": "Secondary"
+        },
+        {
+          "name": "Orion180",
+          "value": 4,
+          "type": "Secondary"
+        },
+        {
+          "name": "Alpinestars",
           "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Castore",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Pirelli",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "IC Markets",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Emburse",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Infobip",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "MGM Rewards",
+          "value": 1,
+          "type": "Associate"
+        },
+        {
+          "name": "New Era",
+          "value": 1,
           "type": "Associate"
         }
       ]
@@ -758,25 +2198,179 @@
           "contract": 3
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "James Key",
+          "rating": 88,
+          "salary": 4,
+          "contract": 3,
+          "age": 54,
+          "potential": 89
+        },
+        "rs": {
+          "name": "Iñaki Rueda",
+          "rating": 84,
+          "salary": 2,
+          "contract": 2,
+          "age": 47,
+          "potential": 85,
+          "abilities": {
+            "strategy": 83,
+            "weatherReading": 85,
+            "tyreReading": 84,
+            "safetyCar": 83
+          }
+        },
+        "cm": {
+          "name": "Lee Stevenson",
+          "rating": 92,
+          "salary": 1,
+          "contract": 3,
+          "age": 41,
+          "potential": 93,
+          "abilities": {
+            "reliability": 92,
+            "setup": 91,
+            "repairSpeed": 93,
+            "development": 91
+          }
+        },
+        "pcc": {
+          "name": "Christoph Treier",
+          "rating": 84,
+          "salary": 1,
+          "contract": 2,
+          "age": 39,
+          "potential": 86,
+          "abilities": {
+            "pitSpeed": 85,
+            "consistency": 84,
+            "training": 83,
+            "pressure": 83
+          }
+        },
+        "re1": {
+          "name": "Steven Petrik",
+          "rating": 86,
+          "salary": 2,
+          "contract": 3,
+          "age": 40,
+          "potential": 88,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 87,
+            "strategyPace": 85,
+            "pitTiming": 86,
+            "oneLapPace": 86,
+            "ersUsage": 85
+          }
+        },
+        "re2": {
+          "name": "José Manuel López",
+          "rating": 85,
+          "salary": 2,
+          "contract": 3,
+          "age": 37,
+          "potential": 89,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 87,
+            "strategyPace": 84,
+            "pitTiming": 85,
+            "oneLapPace": 85,
+            "ersUsage": 84
+          }
+        },
+        "jre": {
+          "name": "Alex Chan",
+          "rating": 79,
+          "salary": 1,
+          "contract": 2,
+          "age": 33,
+          "potential": 86,
+          "abilities": {
+            "morale": 81,
+            "strategyPace": 78,
+            "pitTiming": 79,
+            "oneLapPace": 79,
+            "ersUsage": 78
+          }
+        }
+      },
       "sponsors": [
         {
-          "name": "Audi AG",
-          "value": 35,
-          "type": "Works"
+          "name": "Revolut",
+          "value": 40,
+          "type": "Title"
         },
         {
-          "name": "MediaMarkt",
+          "name": "BP/Castrol",
+          "value": 30,
+          "type": "Primary"
+        },
+        {
+          "name": "Audi Sport",
+          "value": 25,
+          "type": "Primary"
+        },
+        {
+          "name": "Visit Qatar",
+          "value": 12,
+          "type": "Partner"
+        },
+        {
+          "name": "Adidas",
+          "value": 12,
+          "type": "Secondary"
+        },
+        {
+          "name": "Nexo",
           "value": 10,
-          "type": "Partner"
+          "type": "Secondary"
         },
         {
-          "name": "Castrol",
-          "value": 7,
-          "type": "Partner"
+          "name": "Libertex",
+          "value": 8,
+          "type": "Secondary"
         },
         {
-          "name": "PUMA",
+          "name": "NinjaOne",
           "value": 4,
+          "type": "Technical"
+        },
+        {
+          "name": "Extreme Networks",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Camozzi",
+          "value": 2,
+          "type": "Technical"
+        },
+        {
+          "name": "World of Hyatt",
+          "value": 3,
+          "type": "Associate"
+        },
+        {
+          "name": "Gillette",
+          "value": 3,
+          "type": "Associate"
+        },
+        {
+          "name": "Paulaner München",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Piquadro",
+          "value": 2,
+          "type": "Associate"
+        },
+        {
+          "name": "Specialized",
+          "value": 1,
           "type": "Associate"
         }
       ]
@@ -836,25 +2430,165 @@
           "contract": 2
         }
       ],
+      "staffOverrides": {
+        "td": {
+          "name": "Nick Chester",
+          "rating": 86,
+          "salary": 3,
+          "contract": 3,
+          "age": 57,
+          "potential": 87,
+          "abilities": {
+            "aeroDesign": 86,
+            "mechanicalDesign": 87,
+            "resourceEfficiency": 85,
+            "innovation": 86
+          }
+        },
+        "rs": {
+          "name": "Peter Crolla",
+          "rating": 82,
+          "salary": 1,
+          "contract": 2,
+          "age": 44,
+          "potential": 84,
+          "abilities": {
+            "strategy": 82,
+            "weatherReading": 81,
+            "tyreReading": 82,
+            "safetyCar": 81
+          }
+        },
+        "cm": {
+          "name": "Rob White",
+          "rating": 88,
+          "salary": 1,
+          "contract": 3,
+          "age": 59,
+          "potential": 88,
+          "abilities": {
+            "reliability": 88,
+            "setup": 87,
+            "repairSpeed": 87,
+            "development": 88
+          }
+        },
+        "pcc": {
+          "name": "Brian Smith",
+          "rating": 80,
+          "salary": 1,
+          "contract": 2,
+          "age": 37,
+          "potential": 83,
+          "abilities": {
+            "pitSpeed": 81,
+            "consistency": 79,
+            "training": 80,
+            "pressure": 79
+          }
+        },
+        "re1": {
+          "name": "Carlo Pasetti",
+          "rating": 85,
+          "salary": 2,
+          "contract": 2,
+          "age": 42,
+          "potential": 87,
+          "assignedDriverSlot": 0,
+          "abilities": {
+            "morale": 86,
+            "strategyPace": 84,
+            "pitTiming": 85,
+            "oneLapPace": 84,
+            "ersUsage": 85
+          }
+        },
+        "re2": {
+          "name": "John Howard",
+          "rating": 86,
+          "salary": 2,
+          "contract": 2,
+          "age": 41,
+          "potential": 88,
+          "assignedDriverSlot": 1,
+          "abilities": {
+            "morale": 87,
+            "strategyPace": 85,
+            "pitTiming": 86,
+            "oneLapPace": 85,
+            "ersUsage": 86
+          }
+        },
+        "jre": {
+          "name": "Michael Taylor",
+          "rating": 77,
+          "salary": 1,
+          "contract": 2,
+          "age": 30,
+          "potential": 84,
+          "abilities": {
+            "morale": 79,
+            "strategyPace": 76,
+            "pitTiming": 77,
+            "oneLapPace": 77,
+            "ersUsage": 76
+          }
+        }
+      },
       "sponsors": [
         {
-          "name": "GM",
+          "name": "Cadillac",
+          "value": 50,
+          "type": "Title"
+        },
+        {
+          "name": "Claro",
           "value": 25,
-          "type": "Works"
+          "type": "Primary"
         },
         {
-          "name": "Whataburger",
+          "name": "TWG AI",
+          "value": 20,
+          "type": "Primary"
+        },
+        {
+          "name": "Tommy Hilfiger",
+          "value": 12,
+          "type": "Partner"
+        },
+        {
+          "name": "Core Scientific",
           "value": 8,
-          "type": "Partner"
+          "type": "Secondary"
         },
         {
-          "name": "Qualcomm",
+          "name": "3M",
           "value": 6,
-          "type": "Partner"
+          "type": "Secondary"
         },
         {
-          "name": "Chevrolet",
+          "name": "Jim Beam",
           "value": 5,
+          "type": "Secondary"
+        },
+        {
+          "name": "Tenneco",
+          "value": 6,
+          "type": "Technical"
+        },
+        {
+          "name": "IFS",
+          "value": 4,
+          "type": "Technical"
+        },
+        {
+          "name": "Pirelli",
+          "value": 3,
+          "type": "Technical"
+        },
+        {
+          "name": "Alpinestars",
+          "value": 2,
           "type": "Associate"
         }
       ]
@@ -6152,7 +7886,20 @@
     "IndyCar",
     "WEC",
     "F1 Academy",
-    "Regional Formulas"
+    "Regional Formulas",
+    "F2",
+    "F2",
+    "F2",
+    "F2",
+    "F3",
+    "F3",
+    "F3",
+    "F3",
+    "Regional Formulas",
+    "Regional Formulas",
+    "Regional Formulas",
+    "F1 Academy",
+    "IndyCar"
   ],
   "deletedTeamIds": [],
   "customPoints": null,
@@ -6263,278 +8010,13 @@
   ],
   "staffPool": {
     "named": {
-      "td": [
-        {
-          "name": "Pierre Waché",
-          "rating": 97,
-          "salary": 6,
-          "desc": "A brilliant aerodynamicist who masters the entire technical design of the grids most efficient aerodynamic concepts."
-        },
-        {
-          "name": "Loïc Serra",
-          "rating": 94,
-          "salary": 5,
-          "desc": "Bringing elite vehicle dynamics expertise straight from Mercedes to spearhead Scuderia Ferraris 2026 engine era."
-        },
-        {
-          "name": "James Allison",
-          "rating": 96,
-          "salary": 6,
-          "desc": "A legendary engineering director known for cultivating championship-winning cultures and dominant technical platforms."
-        },
-        {
-          "name": "Rob Marshall",
-          "rating": 95,
-          "salary": 5,
-          "desc": "A veteran design expert whose recent transition from Red Bull has catalyzed McLarens rapid rise to the front."
-        },
-        {
-          "name": "Enrico Cardile",
-          "rating": 93,
-          "salary": 3,
-          "desc": "A high-profile signing from Ferrari tasked with turning Aston Martins massive infrastructure into immediate title contention."
-        },
-        {
-          "name": "David Sanchez",
-          "rating": 86,
-          "salary": 3,
-          "desc": "An experienced aerodynamic specialist working hard to structurally rebuild and streamline Alpines engineering departments."
-        },
-        {
-          "name": "Pat Fry",
-          "rating": 88,
-          "salary": 3,
-          "desc": "A calm, highly respected technical veteran focused on bringing modern engineering processes back to Grove."
-        },
-        {
-          "name": "Jody Egginton",
-          "rating": 84,
-          "salary": 2,
-          "desc": "A pragmatic technical leader skilled at maximizing performance within a tight, collaborative sister-team framework."
-        },
-        {
-          "name": "Andrea de Zordo",
-          "rating": 81,
-          "salary": 2,
-          "desc": "A sharp design engineer tasked with optimizing the close technical partnership between Haas and Dallara/Ferrari."
-        },
-        {
-          "name": "James Key",
-          "rating": 87,
-          "salary": 3,
-          "desc": "Tasked with transitioning the Hinwil-based squad into a full Audi works operation using his vast midfield expertise."
-        },
-        {
-          "name": "Nick Chester",
-          "rating": 85,
-          "salary": 3,
-          "desc": "A proven F1 veteran leading the technical foundation of the American outfits ambitious entry into the sport."
-        }
-      ],
-      "rs": [
-        {
-          "name": "Hannah Schmitz",
-          "rating": 98,
-          "salary": 3,
-          "desc": "Celebrated as the gold standard of F1 strategy, famous for making cold, championship-winning calls under extreme pressure."
-        },
-        {
-          "name": "Ravin Jain",
-          "rating": 92,
-          "salary": 2,
-          "desc": "A brilliant young mathematical mind bringing analytical precision to calm Ferraris historically chaotic strategy calls."
-        },
-        {
-          "name": "Rosie Wait",
-          "rating": 94,
-          "salary": 2,
-          "desc": "Leverages complex simulation models to master game-theory execution from the Brackley race support room."
-        },
-        {
-          "name": "Randy Singh",
-          "rating": 95,
-          "salary": 2,
-          "desc": "A foundational element of McLaren’s trackside brain trust, blending software innovations with lightning-fast intuition."
-        },
-        {
-          "name": "Tom McCullough",
-          "rating": 89,
-          "salary": 2,
-          "desc": "A calm trackside engineering director who coordinates race strategy with an emphasis on safe, high-yield points scoring."
-        },
-        {
-          "name": "Matthieu Dubois",
-          "rating": 84,
-          "salary": 1,
-          "desc": "A calculating strategist working aggressively to find creative, high-risk alternatives for a recovering midfield team."
-        },
-        {
-          "name": "James Matthews",
-          "rating": 86,
-          "salary": 1,
-          "desc": "Utilizes a highly adaptive, data-driven approach to consistently maximize points opportunities during chaotic race weekends."
-        },
-        {
-          "name": "Marco Perrone",
-          "rating": 85,
-          "salary": 1,
-          "desc": "Specializes in aggressive undercuts and tire management strategies tailored perfectly to the tight midfield battle."
-        },
-        {
-          "name": "Maurizio Bocchi",
-          "rating": 82,
-          "salary": 1,
-          "desc": "Focuses on defensive, point-securing strategy matrices designed to convert strong qualifying results into concrete finishes."
-        },
-        {
-          "name": "Marcus Vance",
-          "rating": 87,
-          "salary": 1,
-          "desc": "An ambitious new analytical recruit brought in to establish world-class strategy software for the Audi works program."
-        },
-        {
-          "name": "Sarah Jenkins",
-          "rating": 83,
-          "salary": 1,
-          "desc": "A sharp American strategist utilizing modern sports analytics to give the grids newest team an immediate tactical edge."
-        }
-      ],
-      "cm": [
-        {
-          "name": "Phil Turner",
-          "rating": 96,
-          "salary": 1,
-          "desc": "Demands perfection in the garage to ensure the teams machinery remains the most bulletproof and reliable on the grid."
-        },
-        {
-          "name": "Francesco Cigarini",
-          "rating": 93,
-          "salary": 1,
-          "desc": "A highly respected garage leader who commands absolute focus and precision from the Maranello mechanics."
-        },
-        {
-          "name": "Matt Deane",
-          "rating": 95,
-          "salary": 1,
-          "desc": "Ensures exceptional standards of car assembly and structural reliability through meticulous, military-style garage organization."
-        },
-        {
-          "name": "Kari Lammenranta",
-          "rating": 94,
-          "salary": 1,
-          "desc": "A calm and methodical veteran mechanic who anchors the garage during intense, high-stress build periods."
-        },
-        {
-          "name": "Dale Furniss",
-          "rating": 90,
-          "salary": 1,
-          "desc": "Oversees a massive influx of team resources to ensure flawless car reliability and preparation standards."
-        },
-        {
-          "name": "Jason Milligan",
-          "rating": 85,
-          "salary": 1,
-          "desc": "A hard-working veteran focused on minimizing mechanical failures and optimizing rapid power-unit changes."
-        },
-        {
-          "name": "Mark Pattinson",
-          "rating": 87,
-          "salary": 1,
-          "desc": "Renowned for his ability to completely rebuild heavily damaged cars overnight with flawless attention to detail."
-        },
-        {
-          "name": "Mick Price",
-          "rating": 84,
-          "salary": 1,
-          "desc": "A steady hand in the garage who ensures seamless execution and reliability across both sides of the VCARB pit."
-        },
-        {
-          "name": "Toby Brown",
-          "rating": 82,
-          "salary": 1,
-          "desc": "Maximizes limited personnel resources to keep the Haas cars meticulously prepared and strictly on schedule."
-        },
-        {
-          "name": "Reto Camenzind",
-          "rating": 88,
-          "salary": 1,
-          "desc": "Spearheading the massive upgrade in garage equipment and technical standards for the factory Audi entry."
-        },
-        {
-          "name": "Derek Vance",
-          "rating": 83,
-          "salary": 1,
-          "desc": "Tasked with building a cohesive garage team from scratch and establishing elite standards of mechanical preparation."
-        }
-      ],
-      "pcc": [
-        {
-          "name": "Sam OGorman",
-          "rating": 99,
-          "salary": 1,
-          "desc": "Oversees the most feared pit crew in history, consistently drilling them to hit sub-two-second pit stops."
-        },
-        {
-          "name": "Diego Ioverno",
-          "rating": 94,
-          "salary": 1,
-          "desc": "Focuses heavily on synchronization and physical conditioning to keep Ferraris stops consistently in the elite bracket."
-        },
-        {
-          "name": "Rob Meadows",
-          "rating": 93,
-          "salary": 1,
-          "desc": "A strict operational veteran who prioritizes safety and absolute consistency over risky, uncalculated speed."
-        },
-        {
-          "name": "Paul James",
-          "rating": 96,
-          "salary": 1,
-          "desc": "Led the crew to historic, record-breaking pit stop times through relentless biomechanical optimizations."
-        },
-        {
-          "name": "Andy Stevenson",
-          "rating": 91,
-          "salary": 1,
-          "desc": "A long-standing operational leader bringing sharp tactical awareness to pitlane coordination and safe releases."
-        },
-        {
-          "name": "Julian Rouse",
-          "rating": 84,
-          "salary": 1,
-          "desc": "Drills the crew relentlessly to improve consistency and shave off critical tenths in a hyper-competitive midfield."
-        },
-        {
-          "name": "Sven Smeets",
-          "rating": 88,
-          "salary": 1,
-          "desc": "Focuses heavily on psychological composure to prevent mistakes during high-stakes pit stop windows."
-        },
-        {
-          "name": "Alan Permane",
-          "rating": 90,
-          "salary": 1,
-          "desc": "A ruthless operational perfectionist who demands flawless, rapid tire changes under any track conditions."
-        },
-        {
-          "name": "Peter Crolla",
-          "rating": 82,
-          "salary": 1,
-          "desc": "Focuses on minimizing costly errors to ensure the crew delivers reliable, steady stops every Sunday."
-        },
-        {
-          "name": "Beat Zehnder",
-          "rating": 92,
-          "salary": 1,
-          "desc": "A legendary paddock figure bringing decades of operational mastery to steady the new Audi crews execution."
-        },
-        {
-          "name": "Rob Edwards",
-          "rating": 85,
-          "salary": 1,
-          "desc": "Adapting American open-wheel pit efficiency models to forge a fast, highly disciplined F1 crew."
-        }
-      ]
+      "td": [],
+      "rs": [],
+      "cm": [],
+      "pcc": [],
+      "re1": [],
+      "re2": [],
+      "jre": []
     },
     "firstNames": {
       "td": [
@@ -6624,6 +8106,58 @@
         "Henrik",
         "Klaus",
         "Noel"
+      ],
+      "re1": [
+        "Elena",
+        "Daniel",
+        "Maya",
+        "Alex",
+        "Sofia",
+        "Noah",
+        "Luca",
+        "Amira",
+        "Jonas",
+        "Camille",
+        "Ravi",
+        "Nina",
+        "Oscar",
+        "Leila",
+        "Mateo",
+        "Ava"
+      ],
+      "re2": [
+        "Lucas",
+        "Sofia",
+        "Noah",
+        "Maya",
+        "Daniel",
+        "Elena",
+        "Amir",
+        "Hannah",
+        "Theo",
+        "Petra",
+        "Kenji",
+        "Sara",
+        "Marco",
+        "Chloe",
+        "Elias",
+        "Zoe"
+      ],
+      "jre": [
+        "Isla",
+        "Felix",
+        "Mia",
+        "Leo",
+        "Aisha",
+        "Tom",
+        "Nora",
+        "Sam",
+        "Yuki",
+        "Iris",
+        "Liam",
+        "Marta",
+        "Evan",
+        "Lina"
       ]
     },
     "lastNames": [
@@ -6826,6 +8360,17 @@
       "tireDeg": 0.4,
       "overtakingDiff": 0.4,
       "safetyCar": 0.7
+    },
+    {
+      "name": "Bahrain Grand Prix at Malaysia",
+      "location": "Sepang",
+      "country": "Malaysia",
+      "laps": 56,
+      "circuitType": "power",
+      "idealDownforce": 65,
+      "tireDeg": 0.8,
+      "overtakingDiff": 0.45,
+      "safetyCar": 0.35
     },
     {
       "name": "Singapore Grand Prix",
@@ -7076,6 +8621,17 @@
       "tireDeg": 0.4,
       "overtakingDiff": 0.4,
       "safetyCar": 0.7
+    },
+    {
+      "name": "Bahrain Grand Prix at Malaysia",
+      "location": "Sepang",
+      "country": "Malaysia",
+      "laps": 56,
+      "circuitType": "power",
+      "idealDownforce": 65,
+      "tireDeg": 0.8,
+      "overtakingDiff": 0.45,
+      "safetyCar": 0.35
     },
     {
       "name": "Singapore Grand Prix",
